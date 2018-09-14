@@ -1,0 +1,253 @@
+-----------------------------------------
+    1563   Characters
+    1417   Errors
+    9.34%  Accuracy
+
+       1   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.06%  Characters Marked
+   11.39%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+      30        2        0       32   Marked
+    1260      125        0     1385   Unmarked
+    1290      127        0     1417   Total
+
+   Count   Missed   %Right
+     236      182    22.88   ASCII Spacing Characters
+      44       42     4.55   ASCII Special Symbols
+      56       56     0.00   ASCII Digits
+      84       79     5.95   ASCII Uppercase Letters
+    1140     1055     7.46   ASCII Lowercase Letters
+       2        2     0.00   Latin1 Special Symbols
+       1        1     0.00   Latin1 Lowercase Letters
+    1563     1417     9.34   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      80        0   {inant factor. Bannin...}-{}
+      66        0   {l take the above int...}-{T}
+      57        0   {proposal is ill-conc...}-{m}
+      44        0   {ercial speech is pro...}-{}
+      38        0   {Tel 312.644.0600 Fax...}-{}
+      36        0   {Ferraro Vice Preside...}-{}
+      35        0   {Albany, NY 12248<\n>Dea...}-{}
+      35        0   {e the courts get aro...}-{}
+      32       32   {its stated purpose, ...}-{~f}
+      32        0   {oking by youths.<\n>Bes...}-{}
+      31        0   {ploys thousands of p...}-{}
+      30        0   { an individual's dec...}-{-}
+      30        0   {ll 7139, seeks to pr...}-{f}
+      28        0   {1993<\n>Honorable John ...}-{?K}
+      24        0   {Unfortunately, by th...}-{}
+      24        0   {appear in newspapers...}-{m*}
+      22        0   {Sincerely,<\n>Christoph...}-{?}
+      22        0   {ce the 1970's, the c...}-{}
+      22        0   {of parents and older...}-{11}
+      21        0   {s measure, Assembly ...}-{}
+      20        0   {cago. Illinois 60610}-{}
+      19        0   { is unconstitutiona}-{}
+      19        0   {bly poses a severe }-{f}
+      18        0   {aking its way thro}-{}
+      17        0   { York State. Stud}-{}
+      17        0   {easure, the econo}-{}
+      17        0   {the New York Asse}-{}
+      16        0   {United States ha}-{}
+      16        0   {ative Office Bui}-{}
+      16        0   {es both abroad a}-{}
+      16        0   {inment Marketing}-{H}
+      14        0   {that cigarette}-{«mm<\n>mm}
+      13        0   {arette advert}-{}
+      13        0   {industry and }-{}
+      13        0   {ng and advert}-{}
+      13        0   {th the except}-{'}
+      13        0   {to the promot}-{M}
+      13        0   {ubbard Street}-{MI-}
+      12        0   {industry, wh}-{*}
+      11        0   {onal market}-{w}
+      10        0   {MARKETING,}-{- <97>*}
+      10        0   {far the do}-{m}
+      10        0   {g plays a }-{}
+       9        0   {agazines.}-{*}
+       9        0   {ï»¿Entert}-{}
+       8        0   {and the }-{}
+       8        0   {bly Bill}-{TIT-<97>}
+       8        0   {done.to }-{j<\n>*m>}
+       8        0   {fluence,}-{m}
+       8        0   {ll curre}-{}
+       8        0   {nfluence}-{>}
+       8        0   {ng all c}-{i}
+       8        0   {ng this }-{<\n>m}
+       8        0   {oke. Pee}-{}
+       8        0   {others.<\n>}-{}
+       7        0   { 430<\n>Ch}-{JNM}
+       7        0   {achieve}-{m}
+       7        0   {already}-{m}
+       7        0   {e deter}-{}
+       7        0   {hope yo}-{}
+       7        0   {that co}-{*w}
+       7        0   {things,}-{<w»}
+       6        0   {CJF/sa}-{}
+       6        0   {es.<\n>Th}-{}
+       6        0   {have r}-{*wM»<\n>m}
+       6        0   {ndustr}-{}
+       6        0   {of ads}-{mm**}
+       6        0   {suited}-{+>}
+       5        0   {7139.}-{"'""}
+       5        0   {West }-{M}
+       5        0   {by, a}-{i}
+       5        0   {hreat}-{m^w<\n>^}
+       5        0   {ic da}-{}
+       5        0   {ole i}-{}
+       5        0   {use b}-{}
+       4        0   {. Si}-{}
+       4        0   {ERTA}-{}
+       4        0   {INC.}-{<«»}
+       4        0   {Inc.}-{<84>}
+       4        0   {NMEN}-{}
+       4        0   {Room}-{<97>i}
+       4        0   {Suit}-{HHMf}
+       4        0   {This}-{mm}
+       4        0   {adve}-{mm}
+       4        0   {been}-{^^}
+       4        0   {ch e}-{}
+       4        0   {ent.}-{*}
+       4        0   {have}-{mMm^}
+       4        0   {ng w}-{}
+       4        0   {that}-{mum}
+       4        0   {tisi}-{}
+       3        0   { mi}-{}
+       3        0   { wi}-{}
+       3        0   {350}-{Am}
+       3        0   {448}-{**}
+       3        0   {age}-{k}
+       3        0   {any}-{}
+       3        0   {bli}-{}
+       3        0   {end}-{}
+       3        0   {gs,}-{}
+       3        0   {ini}-{}
+       3        0   {led}-{m}
+       3        0   {ned}-{m*}
+       3        0   {ng }-{}
+       3        0   {ong}-{}
+       3        0   {ors}-{}
+       3        0   {s}-{}
+       3        0   {the}-{*}
+       3        0   {tly}-{}
+       2        0   { i}-{}
+       2        0   {J.}-{»}
+       2        0   {al}-{*}
+       2        0   {ba}-{}
+       2        0   {by}-{»}
+       2        0   {co}-{}
+       2        0   {d }-{}
+       2        0   {gh}-{m}
+       2        0   {is}-{<84>^}
+       2        0   {ll}-{'}
+       2        0   {on}-{}
+       2        0   {to}-{*}
+       2        0   {ts}-{}
+       1        0   {d}-{}
+       1        0   {e}-{»}
+       1        0   {h}-{}
+       1        0   {l}-{<}
+       1        0   {n}-{H}
+       1        0   {n}-{}
+       1        0   {o}-{}
+       1        0   {r}-{}
+       1        0   {y}-{:}
+       1        0   {y}-{}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       1        0   {e}-{»}
+       1        0   {l}-{<}
+       1        0   {n}-{H}
+       1        0   {y}-{:}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+       2        0   {al}-{*}
+       2        0   {by}-{»}
+       2        0   {gh}-{m}
+       2        0   {ll}-{'}
+       2        0   {to}-{*}
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+       2        0   {is}-{<84>^}
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       1        0   {e}-{»}
+       1        0   {l}-{<}
+       1        0   {n}-{H}
+       1        0   {y}-{:}
+
+   Count   Missed   %Right
+      15        9    40.00   {<\n>}
+     221      173    21.72   { }
+       2        2     0.00   {'}
+      18       17     5.56   {,}
+       2        1    50.00   {-}
+      20       20     0.00   {.}
+       1        1     0.00   {/}
+       9        9     0.00   {0}
+       9        9     0.00   {1}
+       4        4     0.00   {2}
+       7        7     0.00   {3}
+       8        8     0.00   {4}
+       1        1     0.00   {5}
+       6        6     0.00   {6}
+       3        3     0.00   {7}
+       3        3     0.00   {8}
+       6        6     0.00   {9}
+       1        1     0.00   {:}
+       8        8     0.00   {A}
+       5        5     0.00   {B}
+       4        4     0.00   {C}
+       1        1     0.00   {D}
+       5        5     0.00   {E}
+       6        6     0.00   {F}
+       1        1     0.00   {G}
+       2        1    50.00   {H}
+       6        4    33.33   {I}
+       4        4     0.00   {J}
+       1        1     0.00   {K}
+       1        1     0.00   {L}
+       5        5     0.00   {M}
+       8        8     0.00   {N}
+       1        1     0.00   {O}
+       2        2     0.00   {P}
+       3        3     0.00   {R}
+       7        7     0.00   {S}
+       7        5    28.57   {T}
+       2        2     0.00   {U}
+       1        1     0.00   {V}
+       1        1     0.00   {W}
+       3        3     0.00   {Y}
+      86       85     1.16   {a}
+      21       21     0.00   {b}
+      34       33     2.94   {c}
+      44       44     0.00   {d}
+     144      142     1.39   {e}
+      15       15     0.00   {f}
+      26       24     7.69   {g}
+      45       45     0.00   {h}
+      99       73    26.26   {i}
+      10       10     0.00   {k}
+      50       44    12.00   {l}
+      30        7    76.67   {m}
+      90       79    12.22   {n}
+      80       80     0.00   {o}
+      27       27     0.00   {p}
+      69       65     5.80   {r}
+      79       79     0.00   {s}
+     108      106     1.85   {t}
+      31       28     9.68   {u}
+      16       15     6.25   {v}
+       9        7    22.22   {w}
+       2        2     0.00   {x}
+      24       23     4.17   {y}
+       1        1     0.00   {z}
+       1        1     0.00   {»}
+       1        1     0.00   {¿}
+       1        1     0.00   {ï}

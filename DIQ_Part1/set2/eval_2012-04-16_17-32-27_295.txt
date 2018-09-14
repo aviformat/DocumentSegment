@@ -1,0 +1,126 @@
+-----------------------------------------
+    1563   Characters
+     178   Errors
+   88.61%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   88.61%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     156       11       11      178   Unmarked
+     156       11       11      178   Total
+
+   Count   Missed   %Right
+     236       19    91.95   ASCII Spacing Characters
+      44       11    75.00   ASCII Special Symbols
+      56       31    44.64   ASCII Digits
+      84       15    82.14   ASCII Uppercase Letters
+    1140       88    92.28   ASCII Lowercase Letters
+       2        2     0.00   Latin1 Special Symbols
+       1        1     0.00   Latin1 Lowercase Letters
+    1563      167    89.32   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      55        0   {350 West Hubbard Str...}-{}
+      32        0   {312.644.0600 Fax 312...}-{}
+      32        0   {ï»¿Entertainment Mar...}-{§}
+      23        0   {Christopher J. Ferra...}-{}
+      10        0   {Sincerely,}-{O ©}
+       9        0   {}-{<\n>tt ©<\n>Ul<\n>}
+       5        0   {0<\n>Tel}-{}
+       2        0   {'s}-{*5}
+       2        0   {hi}-{in}
+       2        0   {ll}-{n}
+       2        0   {}-{£<\n>}
+       1        0   { }-{<\n>}
+       1        0   {.}-{}
+       1        0   {i}-{E}
+       1        0   {l}-{}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       1        0   {i}-{E}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+       2        0   {ll}-{n}
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+       2        0   {hi}-{in}
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       1        0   {i}-{E}
+
+   Count   Missed   %Right
+      15        4    73.33   {<\n>}
+     221       15    93.21   { }
+       2        1    50.00   {'}
+      18        2    88.89   {,}
+       2        0   100.00   {-}
+      20        8    60.00   {.}
+       1        0   100.00   {/}
+       9        8    11.11   {0}
+       9        3    66.67   {1}
+       4        2    50.00   {2}
+       7        4    42.86   {3}
+       8        5    37.50   {4}
+       1        1     0.00   {5}
+       6        6     0.00   {6}
+       3        0   100.00   {7}
+       3        1    66.67   {8}
+       6        1    83.33   {9}
+       1        0   100.00   {:}
+       8        0   100.00   {A}
+       5        0   100.00   {B}
+       4        2    50.00   {C}
+       1        0   100.00   {D}
+       5        1    80.00   {E}
+       6        2    66.67   {F}
+       1        0   100.00   {G}
+       2        1    50.00   {H}
+       6        2    66.67   {I}
+       4        1    75.00   {J}
+       1        0   100.00   {K}
+       1        0   100.00   {L}
+       5        1    80.00   {M}
+       8        0   100.00   {N}
+       1        0   100.00   {O}
+       2        0   100.00   {P}
+       3        0   100.00   {R}
+       7        3    57.14   {S}
+       7        1    85.71   {T}
+       2        0   100.00   {U}
+       1        0   100.00   {V}
+       1        1     0.00   {W}
+       3        0   100.00   {Y}
+      86        6    93.02   {a}
+      21        2    90.48   {b}
+      34        3    91.18   {c}
+      44        1    97.73   {d}
+     144       12    91.67   {e}
+      15        0   100.00   {f}
+      26        2    92.31   {g}
+      45        4    91.11   {h}
+      99       10    89.90   {i}
+      10        1    90.00   {k}
+      50        7    86.00   {l}
+      30        1    96.67   {m}
+      90        7    92.22   {n}
+      80        4    95.00   {o}
+      27        1    96.30   {p}
+      69       10    85.51   {r}
+      79        4    94.94   {s}
+     108        9    91.67   {t}
+      31        2    93.55   {u}
+      16        0   100.00   {v}
+       9        0   100.00   {w}
+       2        1    50.00   {x}
+      24        1    95.83   {y}
+       1        0   100.00   {z}
+       1        1     0.00   {»}
+       1        1     0.00   {¿}
+       1        1     0.00   {ï}

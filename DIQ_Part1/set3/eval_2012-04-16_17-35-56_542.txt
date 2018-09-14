@@ -1,0 +1,113 @@
+-----------------------------------------
+     532   Characters
+      53   Errors
+   90.04%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   90.04%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      15       11       27       53   Unmarked
+      15       11       27       53   Total
+
+   Count   Missed   %Right
+      77        3    96.10   ASCII Spacing Characters
+      45        7    84.44   ASCII Special Symbols
+      72        1    98.61   ASCII Digits
+      67        6    91.04   ASCII Uppercase Letters
+     271        9    96.68   ASCII Lowercase Letters
+     532       26    95.11   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      23        0   {l}-{1<\n>QD O M<\n>ca<\n>CO...}
+      13        0   { Sincerely, '}-{}
+       4        0   {I}-{1}
+       2        0   {,}-{.}
+       2        0   {. }-{<\n>}
+       2        0   {1}-{0,}
+       2        0   {L}-{li}
+       1        0   {.}-{ }
+       1        0   {.}-{}
+       1        0   {}-{'}
+       1        0   {}-{-}
+       1        0   {}-{;}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       4        0   {I}-{1}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+       2        0   {1}-{0,}
+       2        0   {L}-{li}
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       4        0   {I}-{1}
+
+   Count   Missed   %Right
+       8        0   100.00   {<\n>}
+      69        3    95.65   { }
+       1        1     0.00   {'}
+       1        0   100.00   {(}
+       1        0   100.00   {)}
+      15        3    80.00   {,}
+       5        0   100.00   {-}
+      19        3    84.21   {.}
+       1        0   100.00   {/}
+      16        0   100.00   {0}
+      15        1    93.33   {1}
+      12        0   100.00   {2}
+       1        0   100.00   {3}
+       8        0   100.00   {4}
+       2        0   100.00   {5}
+       5        0   100.00   {6}
+       6        0   100.00   {7}
+       6        0   100.00   {8}
+       1        0   100.00   {9}
+       2        0   100.00   {:}
+       4        0   100.00   {A}
+       6        0   100.00   {B}
+       4        0   100.00   {C}
+       6        0   100.00   {D}
+       3        0   100.00   {E}
+       1        0   100.00   {G}
+       9        4    55.56   {I}
+       5        1    80.00   {L}
+       3        0   100.00   {M}
+       3        0   100.00   {N}
+       3        0   100.00   {O}
+       2        0   100.00   {P}
+       8        0   100.00   {R}
+       5        1    80.00   {S}
+       3        0   100.00   {T}
+       2        0   100.00   {V}
+      19        0   100.00   {a}
+       3        0   100.00   {b}
+      15        1    93.33   {c}
+      10        0   100.00   {d}
+      37        2    94.59   {e}
+       5        0   100.00   {f}
+       4        0   100.00   {g}
+      11        0   100.00   {h}
+      19        1    94.74   {i}
+      18        2    88.89   {l}
+       4        0   100.00   {m}
+      16        1    93.75   {n}
+      25        0   100.00   {o}
+       4        0   100.00   {p}
+       1        0   100.00   {q}
+      19        1    94.74   {r}
+      19        0   100.00   {s}
+      20        0   100.00   {t}
+       6        0   100.00   {u}
+       4        0   100.00   {v}
+       1        0   100.00   {w}
+       2        0   100.00   {x}
+       8        1    87.50   {y}
+       1        0   100.00   {z}
