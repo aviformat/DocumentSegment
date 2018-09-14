@@ -1,0 +1,20 @@
+﻿
+A £*t#**«f WhMirf Iff 14 U W
+m
+Identification of the boundary surfaces in 3D
+V
+finite element codes
+Irenrtnr SactygM, Aftdrxej S/lfk, Ryaiard Blalecki & Andrttj J. Nowak /mMin M Tkmmi	SMmnh Tnkmtti VmatrMv Kontinkt^o 22. 44 101 Cliwvrt, Htmet
+• given )D FEM net deftned by t domain connectivity array I boundary WMMivMy amy n immMd The latter contains boundary nodes ovtr which wNmiMMt boundary elements ara tpannad An algorithm can ba usad to check the t'MMWntv of tht input connectivity array, it can alto ba uteftil in prt and (MMiprocaaaon m hxkton knee rtmoval A h»t of appropnate routines it included
+I INTiODitTION
+Scmm appbcattoeie of the Unite element method demand integration <ntf the boundary of the body under con-wltmbon To carry out this integration the boundary surface ihoold be defined by grouping the boundary nodes mio boundary elements Heat conduction pfohieaat antli boundary condition! of the third kind arc a typical example of this data of problem. The ttandard approach uaed m structural mechanics of converting boundary loada «nto nodal foreaa hat no simple equiv* alaact in dm coat
+The diftatttao of the boundary surface can ba abo «hN n top* and output graphic programs where hidden bne removal la often requited- The knowledge of the hoeodnna surfaces dbei an elkieat tranaittoo flroaa the laiftum modal dsiaed by the domain connectmtv ami men a send model detenbtd by a boundary connec-MfHy amy
+Tb» damem rotnactisoy Amy, gmafeng tba nodta aat la>u raawtu. cuaynni a cmmkriMi portion of dm eoadad to nee an fffct coda and the chance of nawmai swats «ne* pmpomg this ntmt ta high. tt ta dbmlaae impemai to dhecfc tamtamcy al thm amy Hit dtaelapid elpmfcft paeiteaae tta taae ba ema etsMMag, « § eAMbnt «a* torihma gmmaid by pattaa* *g tin eaNttngaet* aanma act dtaod and band tba
+i mmtiiiN ot rm %i m mi t mt
+Ibt geeame tMptaMvaaMMHna el a ptgetoua one dating aatl pmitMt* li oaaatas of dkmt stagm
+1$ Mt gbtne* Jemae IMvh iaA
+(i) unpacking the domain connectivity matrix into faces connectivity matrix Within thit %tagr sequent finite elements are converted into their faces. The nodes over which the faces ara spanned are stored in a face connectivity matrix; (it) processing the face connectivity matnx to ftnd the boundary elements. The nodes these elements aft spanned over ara stored in the boundary connectivity matrix;
+(tii) grouping the boundary elements into elated
+boundary surfaces The appendix contains the list of appropriate routine* This computer implementation of the algorithm can deal with It near (I nodes) or quadratic (30 nodes) bndt elements as well as with all kinds of transition hnear • quadratic ones
+The local nodes numbering pattern of a tone element used in routines hated m the Appendix e shorn nt ft| I The local numbers of nodes within a face ait shorn n Fig, 1 Other numbering schemes can be etady wssr parased mso the piofram.
+TV fkm Map of the ilgMUhm t* executed smim the mast UNPACK Aft Net* keeodiua a pwa Mia tbMat are pinainsed from data mtitd m tbt dtennsn ematttretty anm IX Tit idwat of npiMsi elements meo tone * ateltd by tit hnal nedoe euaebemg ptnain. amend m die amy IFACIFATTIIh mmafcted by a OAtA mmmm m m UNPACK mnai U* vtaidl at dni anancban^ t>#. M ^tbal ewnbats ef note aeancxMd wnn a pea* im m tamoi # dm tei ■ awni'mi mama tPACf lacb aobMMi el UMa maNi MMii at offt Amv of t bnta iImmnk^

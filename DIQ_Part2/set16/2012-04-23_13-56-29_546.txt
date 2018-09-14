@@ -1,0 +1,21 @@
+﻿* r*t>*ttrrn $*0**T* l*WL 14. t VW
+H
+Identification of the boundary surfaces in 3D finite element codes
+Irenetm Stcxygkl, Andrzcj Szlfk, Ryszard BialeckJ it Andrzcj J. Nowak
+tmmum if Thttmai Ttchto/ofy Sitesum Technical Universtiy, Konarskiego 22. 44 101 Gliwice, Poland
+For a given 3D FEM net defined by a domain connectivity array a boundary connectivity array is generated The latter contains boundary nodes over which subsequent boundary elements are spanned. An algorithm can be used to check the consistency of the input connectivity array. It can also be useful in pre and postprocessors in hidden lines removal. A list of appropriate routines is included.
+I INTRODUCTION
+Some applications of the finite element method demand integration over the boundary of the body under con-uderation To carry out this integration the boundary surface should be defined by grouping the boundary nodes into boundary elements, Heat conduction problem* with boundary conditions of the third kind are a typical eiampte of this class of problem. The standard approach used in structural mechanics of converting boundary loads into nodal forces has no simple equivalence in thts case.
+The definition of (he boundary surface can be also useful in input and output graphic programs where hidden bne removal is often required. The knowledge of the bounding surfaces allows an efficient transition from the wireframe model defined by the domain connectivity amy into a sohd model desert bed by a boundary connectivity amy
+The domain connectivity amy. grouping the nodes mm lane element*, rompnmi a comirirribh portion of data needed to rm an FIM code and the chance of coaaauiung erroes »nen preparing thss matns is high It a ihetedont important to cfcttt renew iencj of thai amy The dnelegeil algorithm performs tka taafc toy mm (Mng f g wfcmhnr the mefirai gentramd by proems *g At timmi) am iris are ehmd and hand the damans
+i macmrnos or rm Aitxmmm
+H» tmmm mpig smwrni a of n pwuimm one dnrtmg •a* J0 tmMmat* k mmmm «# itot «agpa.
+ttomm m jfrpmp'm gqiwmw <Ml	MM il
+# Ml flitm %mmm IMMmn tat
+(i)	unpacking the domain connectivity matrix into faces connectivity matrix. Within this stage subsequent finite elements are converted into their faces. The nodes over which the faces are spanned are stored in a face connectivity matrix;
+(ii)	processing the face connectivity matrix to find the boundary elements. The nodes these elements are spanned over are stored in the boundary connectivity matrix;
+(iii)	grouping the boundary elements into closed boundary surfaces
+The appendix contains the list of appropriate routines This computer implementation of the algorithm can deal with linear (I nodes) or quadratic (20 nodes) bock elements as well as with all kinds of transition linenr quadratic ones.
+The local nodes numbering pattern of a finite element used in routines listed m the Appendix is ihown tn f%. I The local numbers of nodes within a face are shown «n Fig. 2 Other numbering schemes can be easily tncor* porated into the program.
+Tht firm jr*p of the algorithm is executed wttiun the routine UNPACK. All foes bounding a pus taut dement are generated from data itomd m the domain connectivity matrix IX The icheame of unpacking elements mto faces ia coded by the local aodm a am ben ag put tern stored m the amy IFACfPATTUtN. mRaahmd by a DATA statement m the UNPACK mmi Tim result of the unpacking, i.e. the gtofcnt amnhers of sain amoemmd with a gras face are amaid m Jh* Am «m* mriimy matm IF ACE inch cohmm of Hm mama tieevmgmndK to mm tarn of a litt etamnm
+Clainnii Having inaapter fame am gmmmmd lit jgwiUng apfeoffimt nmfcm Annua** at life taaiaf sfemini a ihman m I m wMk- m im m^mg pwtuts I 2JA m Fig I lnlislpiiMtf»(MtH
