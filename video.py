@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import os
 import segmentDoc
 
-vid=cv2.VideoCapture("testVideo.mp4")
+vid=cv2.VideoCapture(sys.argv[1])
 while True:
     ret,frame=vid.read()
     if ret:
