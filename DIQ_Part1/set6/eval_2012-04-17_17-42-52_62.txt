@@ -1,0 +1,131 @@
+-----------------------------------------
+    1266   Characters
+      81   Errors
+   93.60%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   93.60%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      24       34       23       81   Unmarked
+      24       34       23       81   Total
+
+   Count   Missed   %Right
+     217        4    98.16   ASCII Spacing Characters
+      46        6    86.96   ASCII Special Symbols
+      47        4    91.49   ASCII Digits
+     116        7    93.97   ASCII Uppercase Letters
+     837       34    95.94   ASCII Lowercase Letters
+       2        2     0.00   Latin1 Special Symbols
+       1        1     0.00   Latin1 Lowercase Letters
+    1266       58    95.42   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      21        0   {RE: Grant No.3035ARl...}-{}
+      21        0   {}-{RE: Grant NO.3035AR1...}
+       6        0   {avenue}-{AVENUE}
+       6        0   {new}-{NEW}
+       5        0   {york,}-{YORK.}
+       4        0   {york}-{YORK}
+       3        0   {ork}-{ORK}
+       3        0   {ï»¿}-{}
+       2        0   {s}-{B}
+       2        0   {y}-{jr}
+       1        0   {<\n>}-{ }
+       1        0   {"}-{*}
+       1        0   {-}-{<95>}
+       1        0   {;}-{:}
+       1        0   {I}-{1}
+       1        0   {c}-{e}
+       1        0   {i}-{I}
+       1        0   {}-{<\n>}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       2        0   {s}-{B}
+       1        0   {I}-{1}
+       1        0   {c}-{e}
+       1        0   {i}-{I}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+       2        0   {y}-{jr}
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       2        0   {s}-{B}
+       1        0   {I}-{1}
+       1        0   {c}-{e}
+       1        0   {i}-{I}
+
+   Count   Missed   %Right
+      18        2    88.89   {<\n>}
+     199        2    98.99   { }
+       6        1    83.33   {"}
+      11        1    90.91   {,}
+       5        1    80.00   {-}
+      21        1    95.24   {.}
+       9        1    88.89   {0}
+      11        0   100.00   {1}
+       4        0   100.00   {2}
+       5        2    60.00   {3}
+       4        1    75.00   {5}
+       2        0   100.00   {6}
+       1        0   100.00   {7}
+      11        0   100.00   {9}
+       1        1     0.00   {:}
+       2        1    50.00   {;}
+      11        1    90.91   {A}
+       1        0   100.00   {B}
+       5        0   100.00   {C}
+       9        0   100.00   {D}
+       8        1    87.50   {E}
+       5        0   100.00   {F}
+       4        1    75.00   {G}
+       2        0   100.00   {H}
+      10        1    90.00   {I}
+       4        0   100.00   {J}
+       1        0   100.00   {K}
+       3        0   100.00   {L}
+       4        0   100.00   {M}
+       5        1    80.00   {N}
+       2        0   100.00   {O}
+       5        0   100.00   {P}
+       9        2    77.78   {R}
+       9        0   100.00   {S}
+      10        0   100.00   {T}
+       3        0   100.00   {U}
+       1        0   100.00   {V}
+       1        0   100.00   {W}
+       4        0   100.00   {Y}
+      71        2    97.18   {a}
+      13        0   100.00   {b}
+      33        1    96.97   {c}
+      25        0   100.00   {d}
+      99        4    95.96   {e}
+      19        0   100.00   {f}
+      10        0   100.00   {g}
+      35        0   100.00   {h}
+      51        1    98.04   {i}
+       1        0   100.00   {j}
+       8        3    62.50   {k}
+      33        1    96.97   {l}
+      20        0   100.00   {m}
+      66        4    93.94   {n}
+      82        4    95.12   {o}
+      20        0   100.00   {p}
+      71        4    94.37   {r}
+      47        2    95.74   {s}
+      67        1    98.51   {t}
+      26        1    96.15   {u}
+      11        1    90.91   {v}
+       9        2    77.78   {w}
+      20        3    85.00   {y}
+       1        1     0.00   {»}
+       1        1     0.00   {¿}
+       1        1     0.00   {ï}

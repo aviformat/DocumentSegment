@@ -1,0 +1,116 @@
+-----------------------------------------
+    1266   Characters
+      68   Errors
+   94.63%  Accuracy
+
+       1   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.08%  Characters Marked
+   95.97%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0       17       17   Marked
+       0       29       22       51   Unmarked
+       0       29       39       68   Total
+
+   Count   Missed   %Right
+     217        1    99.54   ASCII Spacing Characters
+      46        2    95.65   ASCII Special Symbols
+      47        0   100.00   ASCII Digits
+     116        0   100.00   ASCII Uppercase Letters
+     837       23    97.25   ASCII Lowercase Letters
+       2        2     0.00   Latin1 Special Symbols
+       1        1     0.00   Latin1 Lowercase Letters
+    1266       29    97.71   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      17       17   {}-{*\Univer$ittjJf~ }
+      13        0   {ï»¿}-{Rockfcffcr)% }
+      10        0   {}-{tstwtj''<\n>M}
+       8        0   {york}-{YORK}
+       6        0   {avenue}-{AVENUE}
+       6        0   {new}-{NEW}
+       3        0   {ork}-{ORK}
+       1        0   {<\n>}-{ }
+       1        0   {-}-{<95>}
+       1        0   {;}-{:}
+       1        0   {}-{<\n>}
+       1        0   {}-{/}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+
+   Count   Missed   %Right
+      18        1    94.44   {<\n>}
+     199        0   100.00   { }
+       6        0   100.00   {"}
+      11        0   100.00   {,}
+       5        1    80.00   {-}
+      21        0   100.00   {.}
+       9        0   100.00   {0}
+      11        0   100.00   {1}
+       4        0   100.00   {2}
+       5        0   100.00   {3}
+       4        0   100.00   {5}
+       2        0   100.00   {6}
+       1        0   100.00   {7}
+      11        0   100.00   {9}
+       1        0   100.00   {:}
+       2        1    50.00   {;}
+      11        0   100.00   {A}
+       1        0   100.00   {B}
+       5        0   100.00   {C}
+       9        0   100.00   {D}
+       8        0   100.00   {E}
+       5        0   100.00   {F}
+       4        0   100.00   {G}
+       2        0   100.00   {H}
+      10        0   100.00   {I}
+       4        0   100.00   {J}
+       1        0   100.00   {K}
+       3        0   100.00   {L}
+       4        0   100.00   {M}
+       5        0   100.00   {N}
+       2        0   100.00   {O}
+       5        0   100.00   {P}
+       9        0   100.00   {R}
+       9        0   100.00   {S}
+      10        0   100.00   {T}
+       3        0   100.00   {U}
+       1        0   100.00   {V}
+       1        0   100.00   {W}
+       4        0   100.00   {Y}
+      71        1    98.59   {a}
+      13        0   100.00   {b}
+      33        0   100.00   {c}
+      25        0   100.00   {d}
+      99        4    95.96   {e}
+      19        0   100.00   {f}
+      10        0   100.00   {g}
+      35        0   100.00   {h}
+      51        0   100.00   {i}
+       1        0   100.00   {j}
+       8        3    62.50   {k}
+      33        0   100.00   {l}
+      20        0   100.00   {m}
+      66        3    95.45   {n}
+      82        3    96.34   {o}
+      20        0   100.00   {p}
+      71        3    95.77   {r}
+      47        0   100.00   {s}
+      67        0   100.00   {t}
+      26        1    96.15   {u}
+      11        1    90.91   {v}
+       9        2    77.78   {w}
+      20        2    90.00   {y}
+       1        1     0.00   {»}
+       1        1     0.00   {¿}
+       1        1     0.00   {ï}

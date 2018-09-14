@@ -1,0 +1,264 @@
+-----------------------------------------
+     702   Characters
+     344   Errors
+   51.00%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   51.00%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     122      190       32      344   Unmarked
+     122      190       32      344   Total
+
+   Count   Missed   %Right
+     120       17    85.83   ASCII Spacing Characters
+      40       33    17.50   ASCII Special Symbols
+      42       38     9.52   ASCII Digits
+     183       63    65.57   ASCII Uppercase Letters
+     314      158    49.68   ASCII Lowercase Letters
+       2        2     0.00   Latin1 Special Symbols
+       1        1     0.00   Latin1 Lowercase Letters
+     702      312    55.56   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      45        0   {PARK AVENUE, NEW YOR...}-{3}
+      19        0   {}-{ O<\n>o<\n><95>4$ #<\n>...}
+      12        0   {y 22, 1985<\n>M}-{t}
+      10        0   {U.S.A.<\n>120}-{ii»}
+       9        0   {e}-{a}
+       8        0   {880-5000}-{ifii}
+       8        0   {or quest}-{tmUm}
+       7        0   { yours,}-{}
+       7        0   {ever, b}-{mt* fca}
+       6        0   {Kansas}-{XifiMi}
+       6        0   {marke}-{SMudta}
+       6        0   {ng out}-{fif}
+       6        0   {ï»¿PHI}-{}
+       5        0   {120's}-{lid1*}
+       5        0   {60601}-{#i«i}
+       5        0   {areas}-{wtii}
+       5        0   {blems}-{Waw}
+       4        0   {Ho}-{Wavm}
+       4        0   {Huli}-{WM}
+       4        0   {atta}-{iili}
+       4        0   {hese}-{Haaa}
+       4        0   {ms}-{iftt}
+       4        0   {n}-{a}
+       4        0   {ons.}-{}
+       4        0   {see }-{}
+       4        0   {trad}-{Uiti}
+       3        0   {(5}-{|S*}
+       3        0   {0),}-{#}
+       3        0   {12)}-{*}
+       3        0   {27 }-{}
+       3        0   {IDG}-{lOO}
+       3        0   {IL}-{ii.}
+       3        0   {Jul}-{M}
+       3        0   {and}-{iM}
+       3        0   {are}-{Ait}
+       3        0   {cc:}-{CCt}
+       3        0   {kn}-{fca}
+       3        0   {pr}-{jMf}
+       3        0   {the}-{i^t}
+       3        0   {the}-{w}
+       3        0   {the}-{«}
+       3        0   {une}-{asa}
+       3        0   {use}-{aa}
+       2        0   {(6}-{ft}
+       2        0   {.}-{*}
+       2        0   {.}-{«}
+       2        0   {0)}-{Of}
+       2        0   {5N}-{SH}
+       2        0   {Bu}-{la}
+       2        0   {C.}-{£*}
+       2        0   {E.}-{t»}
+       2        0   {He}-{1a}
+       2        0   {LI}-{U}
+       2        0   {L}-{X*}
+       2        0   {M.}-{H*}
+       2        0   {Pl}-{fi}
+       2        0   {P}-{?}
+       2        0   {U.}-{&«}
+       2        0   {Vi}-{n}
+       2        0   {ah}-{it}
+       2        0   {c}-{a}
+       2        0   {eg}-{af}
+       2        0   {en}-{aa}
+       2        0   {es}-{*i}
+       2        0   {e}-{t}
+       2        0   {he}-{&a}
+       2        0   {le}-{ia}
+       2        0   {ma}-{i}
+       2        0   {me}-{oa}
+       2        0   {ng}-{Af}
+       2        0   {ng}-{f}
+       2        0   {o}-{te}
+       2        0   {ro}-{fO}
+       2        0   {te}-{u}
+       2        0   {u}-{a}
+       2        0   {u}-{ii}
+       1        0   {&}-{4}
+       1        0   {,}-{*}
+       1        0   {,}-{^}
+       1        0   {:}-{s}
+       1        0   {B}-{S}
+       1        0   {G}-{O}
+       1        0   {L}-{t}
+       1        0   {M}-{}
+       1        0   {S}-{}
+       1        0   {a}-{i}
+       1        0   {e}-{i}
+       1        0   {e}-{m}
+       1        0   {g}-{f}
+       1        0   {h}-{b}
+       1        0   {k}-{l}
+       1        0   {l}-{i}
+       1        0   {n}-{f}
+       1        0   {s}-{a}
+       1        0   {s}-{i}
+       1        0   {w}-{*}
+       1        0   {z}-{s}
+       1        0   {}-{<\n>}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       9        0   {e}-{a}
+       4        0   {n}-{a}
+       2        0   {P}-{?}
+       2        0   {c}-{a}
+       2        0   {e}-{t}
+       2        0   {u}-{a}
+       1        0   {B}-{S}
+       1        0   {G}-{O}
+       1        0   {L}-{t}
+       1        0   {a}-{i}
+       1        0   {e}-{i}
+       1        0   {e}-{m}
+       1        0   {g}-{f}
+       1        0   {h}-{b}
+       1        0   {k}-{l}
+       1        0   {l}-{i}
+       1        0   {n}-{f}
+       1        0   {s}-{a}
+       1        0   {s}-{i}
+       1        0   {w}-{*}
+       1        0   {z}-{s}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+       2        0   {L}-{X*}
+       2        0   {o}-{te}
+       2        0   {u}-{ii}
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+       2        0   {LI}-{U}
+       2        0   {Vi}-{n}
+       2        0   {ma}-{i}
+       2        0   {ng}-{f}
+       2        0   {te}-{u}
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+       2        0   {5N}-{SH}
+       2        0   {Bu}-{la}
+       2        0   {He}-{1a}
+       2        0   {Pl}-{fi}
+       2        0   {ah}-{it}
+       2        0   {eg}-{af}
+       2        0   {en}-{aa}
+       2        0   {es}-{*i}
+       2        0   {he}-{&a}
+       2        0   {le}-{ia}
+       2        0   {me}-{oa}
+       2        0   {ng}-{Af}
+       2        0   {ro}-{fO}
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+      13        0   {e}-{a | t | i | m}
+       5        0   {n}-{a | f}
+       2        0   {P}-{?}
+       2        0   {c}-{a}
+       2        0   {s}-{a | i}
+       2        0   {u}-{a}
+       1        0   {B}-{S}
+       1        0   {G}-{O}
+       1        0   {L}-{t}
+       1        0   {a}-{i}
+       1        0   {g}-{f}
+       1        0   {h}-{b}
+       1        0   {k}-{l}
+       1        0   {l}-{i}
+       1        0   {w}-{*}
+       1        0   {z}-{s}
+
+   Count   Missed   %Right
+      12        2    83.33   {<\n>}
+     108       15    86.11   { }
+       1        1     0.00   {&}
+       1        1     0.00   {'}
+       4        3    25.00   {(}
+       4        3    25.00   {)}
+       9        8    11.11   {,}
+       1        1     0.00   {-}
+      18       14    22.22   {.}
+      13       12     7.69   {0}
+       8        7    12.50   {1}
+       7        6    14.29   {2}
+       1        0   100.00   {4}
+       4        4     0.00   {5}
+       3        3     0.00   {6}
+       2        2     0.00   {7}
+       3        3     0.00   {8}
+       1        1     0.00   {9}
+       2        2     0.00   {:}
+      15        3    80.00   {A}
+       9        2    77.78   {B}
+       5        1    80.00   {C}
+       4        1    75.00   {D}
+      16        7    56.25   {E}
+       1        0   100.00   {F}
+       6        2    66.67   {G}
+       7        5    28.57   {H}
+      15        4    73.33   {I}
+       3        1    66.67   {J}
+       4        3    25.00   {K}
+      13        5    61.54   {L}
+      12        3    75.00   {M}
+      10        5    50.00   {N}
+       8        2    75.00   {O}
+      10        6    40.00   {P}
+      13        2    84.62   {R}
+      11        2    81.82   {S}
+       9        1    88.89   {T}
+       4        3    25.00   {U}
+       4        2    50.00   {V}
+       1        1     0.00   {W}
+       3        2    33.33   {Y}
+      33       13    60.61   {a}
+       3        2    33.33   {b}
+       9        4    55.56   {c}
+       8        2    75.00   {d}
+      38       37     2.63   {e}
+       5        0   100.00   {f}
+       6        5    16.67   {g}
+      12        7    41.67   {h}
+      23        2    91.30   {i}
+       4        3    25.00   {k}
+      18        6    66.67   {l}
+       7        5    28.57   {m}
+      19       14    26.32   {n}
+      22        7    68.18   {o}
+       2        1    50.00   {p}
+       1        1     0.00   {q}
+      19        9    52.63   {r}
+      20       15    25.00   {s}
+      29        9    68.97   {t}
+      17       11    35.29   {u}
+       2        1    50.00   {v}
+       3        1    66.67   {w}
+      13        2    84.62   {y}
+       1        1     0.00   {z}
+       1        1     0.00   {»}
+       1        1     0.00   {¿}
+       1        1     0.00   {ï}

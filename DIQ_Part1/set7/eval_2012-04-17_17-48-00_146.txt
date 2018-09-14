@@ -1,0 +1,146 @@
+-----------------------------------------
+    1371   Characters
+     124   Errors
+   90.96%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   90.96%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      44       72        8      124   Unmarked
+      44       72        8      124   Total
+
+   Count   Missed   %Right
+     238       11    95.38   ASCII Spacing Characters
+      41        9    78.05   ASCII Special Symbols
+      38       13    65.79   ASCII Digits
+     129       27    79.07   ASCII Uppercase Letters
+     922       53    94.25   ASCII Lowercase Letters
+       2        2     0.00   Latin1 Special Symbols
+       1        1     0.00   Latin1 Lowercase Letters
+    1371      116    91.54   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      16        0   {eldman, M.D.<\n>JDF}-{}
+      15        0   { (714) 459-2390}-{}
+      11        0   {xperimental}-{XPERIMENTAL}
+       9        0   {oundation}-{OUNDATION}
+       8        0   {athology}-{ATHOLOGY}
+       7        0   {esearch}-{ESEARCH}
+       6        0   {PROSPE}-{WieWC}
+       6        0   {oseph }-{}
+       5        0   {LIFOR}-{UKS}
+       5        0   {REET }-{KCCt<\n>}
+       5        0   {}-{<\n>SMI<\n>}
+       5        0   {ï»¿}-{M-W<97><\n>}
+       4        0   {s}-{t}
+       3        0   {476}-{*?»}
+       3        0   {OF }-{or<\n>}
+       2        0   {<\n>}-{ }
+       2        0   {. }-{}
+       2        0   {LL}-{U}
+       1        0   { }-{<\n>}
+       1        0   {,}-{}
+       1        0   {.}-{,}
+       1        0   {I}-{1}
+       1        0   {I}-{J}
+       1        0   {J}-{)}
+       1        0   {a}-{o}
+       1        0   {i}-{I}
+       1        0   {s}-{*}
+       1        0   {}-{i}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       4        0   {s}-{t}
+       1        0   {I}-{1}
+       1        0   {I}-{J}
+       1        0   {J}-{)}
+       1        0   {a}-{o}
+       1        0   {i}-{I}
+       1        0   {s}-{*}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+       2        0   {LL}-{U}
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       5        0   {s}-{t | *}
+       2        0   {I}-{1 | J}
+       1        0   {J}-{)}
+       1        0   {a}-{o}
+       1        0   {i}-{I}
+
+   Count   Missed   %Right
+      13        3    76.92   {<\n>}
+     225        8    96.44   { }
+       1        1     0.00   {(}
+       1        1     0.00   {)}
+      14        2    85.71   {,}
+       3        1    66.67   {-}
+      20        4    80.00   {.}
+       1        0   100.00   {/}
+       5        1    80.00   {0}
+       8        1    87.50   {1}
+       4        1    75.00   {2}
+       2        1    50.00   {3}
+       7        3    57.14   {4}
+       2        1    50.00   {5}
+       1        1     0.00   {6}
+       4        2    50.00   {7}
+       5        2    60.00   {9}
+       1        0   100.00   {:}
+      13        0   100.00   {A}
+       2        0   100.00   {B}
+       7        0   100.00   {C}
+       9        2    77.78   {D}
+       7        3    57.14   {E}
+       5        3    40.00   {F}
+       2        0   100.00   {G}
+      16        3    81.25   {I}
+       4        2    50.00   {J}
+       6        3    50.00   {L}
+       6        1    83.33   {M}
+       6        0   100.00   {N}
+       4        3    25.00   {O}
+       8        2    75.00   {P}
+       9        3    66.67   {R}
+      11        1    90.91   {S}
+       8        1    87.50   {T}
+       3        0   100.00   {U}
+       1        0   100.00   {W}
+       2        0   100.00   {Y}
+      84        6    92.86   {a}
+      16        0   100.00   {b}
+      37        1    97.30   {c}
+      33        2    93.94   {d}
+     115        6    94.78   {e}
+      15        0   100.00   {f}
+       8        1    87.50   {g}
+      47        3    93.62   {h}
+      60        3    95.00   {i}
+       2        0   100.00   {j}
+      10        0   100.00   {k}
+      34        3    91.18   {l}
+      20        2    90.00   {m}
+      63        4    93.65   {n}
+      86        5    94.19   {o}
+      17        2    88.24   {p}
+      66        2    96.97   {r}
+      53        7    86.79   {s}
+      89        3    96.63   {t}
+      21        1    95.24   {u}
+       8        0   100.00   {v}
+      15        0   100.00   {w}
+       3        1    66.67   {x}
+      19        1    94.74   {y}
+       1        0   100.00   {z}
+       1        1     0.00   {»}
+       1        1     0.00   {¿}
+       1        1     0.00   {ï}

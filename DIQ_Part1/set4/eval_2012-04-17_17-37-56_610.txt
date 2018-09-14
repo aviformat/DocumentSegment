@@ -1,0 +1,130 @@
+-----------------------------------------
+     702   Characters
+      44   Errors
+   93.73%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   93.73%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       8        9       27       44   Unmarked
+       8        9       27       44   Total
+
+   Count   Missed   %Right
+     120        1    99.17   ASCII Spacing Characters
+      40        4    90.00   ASCII Special Symbols
+      42        3    92.86   ASCII Digits
+     183        6    96.72   ASCII Uppercase Letters
+     314        0   100.00   ASCII Lowercase Letters
+       2        2     0.00   Latin1 Special Symbols
+       1        1     0.00   Latin1 Lowercase Letters
+     702       17    97.58   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      24        0   {}-{to o -t* o -o N) O O...}
+       3        0   {ï»¿}-{}
+       2        0   {88}-{M}
+       2        0   {FI}-{R}
+       2        0   {LI}-{U}
+       2        0   {N.}-{M}
+       1        0   { }-{<\n>}
+       1        0   {'}-{*}
+       1        0   {,}-{.}
+       1        0   {.}-{}
+       1        0   {5}-{S}
+       1        0   {D}-{0}
+       1        0   {}-{<\n>}
+       1        0   {}-{ }
+       1        0   {}-{u}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       1        0   {5}-{S}
+       1        0   {D}-{0}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+       2        0   {88}-{M}
+       2        0   {FI}-{R}
+       2        0   {LI}-{U}
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       1        0   {5}-{S}
+       1        0   {D}-{0}
+
+   Count   Missed   %Right
+      12        0   100.00   {<\n>}
+     108        1    99.07   { }
+       1        0   100.00   {&}
+       1        1     0.00   {'}
+       4        0   100.00   {(}
+       4        0   100.00   {)}
+       9        1    88.89   {,}
+       1        0   100.00   {-}
+      18        2    88.89   {.}
+      13        0   100.00   {0}
+       8        0   100.00   {1}
+       7        0   100.00   {2}
+       1        0   100.00   {4}
+       4        1    75.00   {5}
+       3        0   100.00   {6}
+       2        0   100.00   {7}
+       3        2    33.33   {8}
+       1        0   100.00   {9}
+       2        0   100.00   {:}
+      15        0   100.00   {A}
+       9        0   100.00   {B}
+       5        0   100.00   {C}
+       4        1    75.00   {D}
+      16        0   100.00   {E}
+       1        1     0.00   {F}
+       6        0   100.00   {G}
+       7        0   100.00   {H}
+      15        2    86.67   {I}
+       3        0   100.00   {J}
+       4        0   100.00   {K}
+      13        1    92.31   {L}
+      12        0   100.00   {M}
+      10        1    90.00   {N}
+       8        0   100.00   {O}
+      10        0   100.00   {P}
+      13        0   100.00   {R}
+      11        0   100.00   {S}
+       9        0   100.00   {T}
+       4        0   100.00   {U}
+       4        0   100.00   {V}
+       1        0   100.00   {W}
+       3        0   100.00   {Y}
+      33        0   100.00   {a}
+       3        0   100.00   {b}
+       9        0   100.00   {c}
+       8        0   100.00   {d}
+      38        0   100.00   {e}
+       5        0   100.00   {f}
+       6        0   100.00   {g}
+      12        0   100.00   {h}
+      23        0   100.00   {i}
+       4        0   100.00   {k}
+      18        0   100.00   {l}
+       7        0   100.00   {m}
+      19        0   100.00   {n}
+      22        0   100.00   {o}
+       2        0   100.00   {p}
+       1        0   100.00   {q}
+      19        0   100.00   {r}
+      20        0   100.00   {s}
+      29        0   100.00   {t}
+      17        0   100.00   {u}
+       2        0   100.00   {v}
+       3        0   100.00   {w}
+      13        0   100.00   {y}
+       1        0   100.00   {z}
+       1        1     0.00   {»}
+       1        1     0.00   {¿}
+       1        1     0.00   {ï}

@@ -1,0 +1,117 @@
+-----------------------------------------
+     989   Characters
+     163   Errors
+   83.52%  Accuracy
+
+       1   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.10%  Characters Marked
+   85.34%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0       18       18   Marked
+     105        9       31      145   Unmarked
+     105        9       49      163   Total
+
+   Count   Missed   %Right
+     156       14    91.03   ASCII Spacing Characters
+      43       12    72.09   ASCII Special Symbols
+      68       18    73.53   ASCII Digits
+      74       24    67.57   ASCII Uppercase Letters
+     648       46    92.90   ASCII Lowercase Letters
+     989      114    88.47   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      55        0   {LORILLARD, INC. Rese...}-{﻿}
+      52        0   {. Box 21688, Greensb...}-{}
+      19        0   {:l}-{t1<\n>00 o<\n><£<\n>N ...}
+      18       18   {}-{JLv~ wikMM^ Htcx<\n>J}
+      12        0   {}-{ . j /Vl tjj}
+       1        0   {.}-{*}
+       1        0   {.}-{}
+       1        0   {7}-{?}
+       1        0   {B}-{8}
+       1        0   {W}-{w}
+       1        0   {}-{ }
+       1        0   {}-{<}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       1        0   {7}-{?}
+       1        0   {B}-{8}
+       1        0   {W}-{w}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       1        0   {7}-{?}
+       1        0   {B}-{8}
+       1        0   {W}-{w}
+
+   Count   Missed   %Right
+      10        1    90.00   {<\n>}
+     146       13    91.10   { }
+       1        0   100.00   {%}
+      16        5    68.75   {,}
+       7        1    85.71   {-}
+      16        5    68.75   {.}
+       1        0   100.00   {/}
+       8        2    75.00   {0}
+      12        2    83.33   {1}
+      12        4    66.67   {2}
+       2        0   100.00   {3}
+       6        2    66.67   {4}
+       1        0   100.00   {5}
+       7        2    71.43   {6}
+       5        2    60.00   {7}
+      10        4    60.00   {8}
+       5        0   100.00   {9}
+       2        1    50.00   {:}
+       6        1    83.33   {A}
+       4        2    50.00   {B}
+       3        3     0.00   {C}
+       8        1    87.50   {D}
+       1        1     0.00   {E}
+       3        1    66.67   {G}
+       4        0   100.00   {H}
+       2        2     0.00   {I}
+       2        0   100.00   {J}
+       6        3    50.00   {L}
+       2        0   100.00   {M}
+       2        2     0.00   {N}
+       4        2    50.00   {O}
+       2        1    50.00   {P}
+       6        3    50.00   {R}
+       7        1    85.71   {S}
+       6        0   100.00   {T}
+       3        0   100.00   {V}
+       3        1    66.67   {W}
+      50        3    94.00   {a}
+      12        1    91.67   {b}
+      26        1    96.15   {c}
+      19        0   100.00   {d}
+      91        8    91.21   {e}
+      12        0   100.00   {f}
+      13        1    92.31   {g}
+      29        3    89.66   {h}
+      47        2    95.74   {i}
+       1        0   100.00   {j}
+       2        0   100.00   {k}
+      34        3    91.18   {l}
+      12        0   100.00   {m}
+      45        4    91.11   {n}
+      51        5    90.20   {o}
+      11        0   100.00   {p}
+      42        7    83.33   {r}
+      34        3    91.18   {s}
+      56        4    92.86   {t}
+      21        0   100.00   {u}
+       6        0   100.00   {v}
+      11        0   100.00   {w}
+       3        1    66.67   {x}
+      16        0   100.00   {y}
+       4        0   100.00   {z}

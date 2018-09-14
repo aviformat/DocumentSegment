@@ -1,0 +1,127 @@
+-----------------------------------------
+    1371   Characters
+     115   Errors
+   91.61%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   91.61%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      45       47       23      115   Unmarked
+      45       47       23      115   Total
+
+   Count   Missed   %Right
+     238       13    94.54   ASCII Spacing Characters
+      41        5    87.80   ASCII Special Symbols
+      38        6    84.21   ASCII Digits
+     129       19    85.27   ASCII Uppercase Letters
+     922       46    95.01   ASCII Lowercase Letters
+       2        2     0.00   Latin1 Special Symbols
+       1        1     0.00   Latin1 Lowercase Letters
+    1371       92    93.29   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      23        0   {Joseph D. Feldman, M...}-{v}
+      16        0   {}-{PROSPECT STREET<\n>}
+      12        0   {athology<\n>476}-{ERIMENTAL}
+      12        0   {xperimental }-{X}
+       9        0   {oundation}-{OUNDATION}
+       8        0   { STREET }-{HOLOGY<\n>}
+       7        0   {esearch}-{ESEARCH}
+       6        0   {ROSPEC}-{A}
+       4        0   {}-{<\n>476}
+       3        0   {OF }-{or<\n>}
+       3        0   {ï»¿}-{}
+       2        0   {<\n>}-{ }
+       2        0   { }-{<\n>}
+       2        0   {59}-{60}
+       2        0   {}-{-}
+       1        0   { }-{'}
+       1        0   {,}-{.}
+       1        0   {9}-{0}
+       1        0   {}-{<\n>}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       1        0   {9}-{0}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+       2        0   {59}-{60}
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       1        0   {9}-{0}
+
+   Count   Missed   %Right
+      13        3    76.92   {<\n>}
+     225       10    95.56   { }
+       1        0   100.00   {(}
+       1        0   100.00   {)}
+      14        2    85.71   {,}
+       3        0   100.00   {-}
+      20        3    85.00   {.}
+       1        0   100.00   {/}
+       5        0   100.00   {0}
+       8        0   100.00   {1}
+       4        0   100.00   {2}
+       2        0   100.00   {3}
+       7        1    85.71   {4}
+       2        1    50.00   {5}
+       1        1     0.00   {6}
+       4        1    75.00   {7}
+       5        2    60.00   {9}
+       1        0   100.00   {:}
+      13        0   100.00   {A}
+       2        0   100.00   {B}
+       7        1    85.71   {C}
+       9        2    77.78   {D}
+       7        3    57.14   {E}
+       5        2    60.00   {F}
+       2        0   100.00   {G}
+      16        0   100.00   {I}
+       4        1    75.00   {J}
+       6        0   100.00   {L}
+       6        1    83.33   {M}
+       6        0   100.00   {N}
+       4        2    50.00   {O}
+       8        1    87.50   {P}
+       9        2    77.78   {R}
+      11        2    81.82   {S}
+       8        2    75.00   {T}
+       3        0   100.00   {U}
+       1        0   100.00   {W}
+       2        0   100.00   {Y}
+      84        5    94.05   {a}
+      16        0   100.00   {b}
+      37        1    97.30   {c}
+      33        2    93.94   {d}
+     115        6    94.78   {e}
+      15        0   100.00   {f}
+       8        1    87.50   {g}
+      47        3    93.62   {h}
+      60        2    96.67   {i}
+       2        0   100.00   {j}
+      10        0   100.00   {k}
+      34        3    91.18   {l}
+      20        2    90.00   {m}
+      63        4    93.65   {n}
+      86        5    94.19   {o}
+      17        2    88.24   {p}
+      66        2    96.97   {r}
+      53        2    96.23   {s}
+      89        3    96.63   {t}
+      21        1    95.24   {u}
+       8        0   100.00   {v}
+      15        0   100.00   {w}
+       3        1    66.67   {x}
+      19        1    94.74   {y}
+       1        0   100.00   {z}
+       1        1     0.00   {»}
+       1        1     0.00   {¿}
+       1        1     0.00   {ï}
