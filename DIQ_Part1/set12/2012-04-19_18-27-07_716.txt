@@ -1,0 +1,10 @@
+﻿Real-Time Control of a Virtual Human Using Minimal Sensors
+Norman L Badkr Michael J. HoBkl Jobs P. Crtfiieti
+Computer Gnphxi Raetfck Laboratory Deputtmsl of Computer tad Informal 100 Sde&cr Umwiity of Pe&ittyitftjujk Pkiydpk^ Pnsi|huii« 19104*6319
+1	Abstract
+We track, in rt«l»tinM, the position ted poiliift of a human body, aaa| a minimal number ot • DOF sen~ son to capton full body standing portum Vh uat 4 teoiors to create a food ipdii^ of a operator's pcatioQ and posture, and map it on to our articulated computer graphic* humu node! Tte ttfltesicd joints are poaUoiwd by a fast inverse liat> matks algorithm Our goal ia to radBatkally mrutt human postures while minimally encumbering the operator.
+2	Background
+Ideally, a virtual environ men t interface should be able to meaaure and recreate a participant's posture exact* iy. Rather than the traditional "disembodied hand* approach, ire would like to generate a complete, real* isiically postured human image. However, the equipment needed to accurately track every body segment (or joint angle) of a human is costly and cumbersome. We face several questions, how cioaety must the virtual human's posture match the operator's, and how much information do we need to achieve this degree of realism?
+As in other areas of VRt the degree of realism necessary depends greatly on the tasks we would like to perform [Uj. We have concentrated on creating an interface that will allow a human participant to
+perform basic tasks, using a minimal number of sen- Figure 1: Sensor Placement and Support Polygon sors to derive feasible, reasonably accurate postures. Three pieces of information are essential for our posture reconstruction algorithm: the participant's view vector, center of mass, and the location of the end-effectors the participant will use to interact with the
+1

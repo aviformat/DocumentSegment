@@ -1,0 +1,14 @@
+﻿Real-Time Control of a Virtual Human Using Minimal Sensors
+Norman I. Badler Michael J Hollick John P. Granieri
+Computer Graphics Research Laboratory Department of Computer and Information Science University of Pennsylvania Philadelphia, Pennsylvania 19104-6389
+I Abstract
+Wt ttocfc, 'm t*aMtm*v tW pooition and posture of a fastaaa feady, **tft§ a minimal number of6 0OF sen-ton i« «*ptuf* IWI body standing pasture* We use I water* lo imtt a good approximation of & human «fMH*u»ft portion and pMtsrt, and imp it on lo our att*u!*t«d	graphics human model The
+ill* wwd jamta alt positioned by a fist inverse kinematics atgprfctbai* Our goal b to realistically recreate birtui (MMttffi wbllt minimally encumbering the op»
+2 Background
+(inil, a itudittlwiaiiii	should bo able
+la flMNNMwm «imI rm f watt a pvtxi^iM'i posture txncv ftatlto* tfesa Ik in^iMtil *toMiMl band* aaprsaea, *t tvaaM bbt ta gsaseals a caa^Jste, issJU pannsd toaiaas baagt* laawwe, lbs sq»ip-SMS sudbul to aE*«f*K»£y itacfc iwy bady segrmst tm |H»	* bwa> *■ <mly tad cambsrsanns
+lib fee* awt*** Imhp cMjp am* tk sit* tost baasaat pastsas stsscb «Im apsmar%< and bait mm% wtimwMmm^ 4a asai at tttots tbat dsgias at mm*m*
+A* # «KiMt *f V1l» iAa asgrsw <*# yasifrsat ssa-as**** difaad* yoflf a» da ladbft as aamii fi|g§ la mrtmm Hit ba*s sasss*laaMl sa «s**ia§ a* **+*im* tiai g&s* a lamaa paftSsig*at ta pStfawe baas gfe&i., xMMMg a MfeHiMli mhImp at as* «m ia gart «• %«*»a*» *Maa*ft#f assnas* pastata* Ifess* pNMta tfmtmmmim sss aamital lbs ait
+■ -	nips jartiiipant*•> -mr
+aMM al aa^ is* jpeatwia it ifct as*-^■ atigl **a ft* Msess* aafc iba
+J 1910s I fssast mmtrrmm m4 iappift fN^ppa

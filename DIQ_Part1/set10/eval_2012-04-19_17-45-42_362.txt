@@ -1,0 +1,549 @@
+-----------------------------------------
+    2662   Characters
+    2242   Errors
+   15.78%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   15.78%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+    1271      968        3     2242   Unmarked
+    1271      968        3     2242   Total
+
+   Count   Missed   %Right
+     439      194    55.81   ASCII Spacing Characters
+      96       93     3.13   ASCII Special Symbols
+      90       89     1.11   ASCII Digits
+     119      117     1.68   ASCII Uppercase Letters
+    1918     1746     8.97   ASCII Lowercase Letters
+    2662     2239    15.89   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      30        0   {th cDNA probes and R...}-{'i»»}
+      24        0   {see how this should ...}-{mmmmmm}
+      22        0   {Elliott Lawrence A W...}-{mm**<\n>M}
+      21        0   {(Toxicology)<\n>Lecture...}-{*m* mmm m*Wm}
+      21        0   {March 1988<\n>Dr. Sheld...}-{}
+      20        0   {acogenetics<\n>Lecturer}-{ �<80>� mm* mmm* 9mmm}
+      19        0   {the cost of each sa}-{i}
+      18        0   {<\n>P.O. Box 1115<\n>Al...}-{}
+      17        0   {$30,000 + $1,600)}-{mm*}
+      17        0   {I have given more}-{Mi<\n>*�<80>��<80>�»*}
+      17        0   {h high and low fa}-{*N»<\n>}
+      15        0   {d cryopreservat}-{mmkmW&mmmm }
+      15        0   {not constrained}-{<§<#}
+      15        0   {of lung cancer.}-{»�<80>��<80>�«**}
+      15        0   {rouble of mount}-{i}
+      15        0   {the first year }-{}
+      15        0   {tunity of estab}-{m->}
+      14        0   {Jersey<\n>07620<\n>U}-{}
+      14        0   {lymphoblastoid}-{-}
+      14        0   {recruiting 400}-{»»!§»<�<96>}
+      14        0   {subjects which}-{«HM§v<\n>*irnmm}
+      14        0   {vely small add}-{}
+      13        0   { "high" and "}-{}
+      13        0   {1252<\n>JI/AS<\n>10}-{|H«f}
+      13        0   {acology<\n>Chief}-{**}
+      13        0   {acology<\n>Reade}-{}
+      13        0   {cell transfor}-{mmmm*mm}
+      13        0   {lung cancer r}-{^jWM}
+      13        0   {sk), sporadic}-{m t*<\n>W***-*}
+      13        0   {total cost of}-{m*\<\n>**>m*mm}
+      13        0   {y proposal:<\n>O}-{mmm}
+      12        0   {be asked. At}-{w»iwiiuii}
+      12        0   {cancer-prone}-{*}
+      12        0   {debrisoquine}-{m m<\n>-^MN}}
+      12        0   {lung cancers}-{«�<80>�*»«}
+      12        0   {purchase a l}-{mm}
+      12        0   {resource for}-{mmmmmmmmm}
+      11        0   {MLSO<\n>Robert}-{*m>}
+      11        0   {Stephen C M}-{mmf}
+      11        0   {for storing}-{mmmmmmm}
+      11        0   {immediately}-{w}
+      11        0   {lung cancer}-{Mi^iii}
+      11        0   {or $2000 in}-{«mNH»|<\n>m}
+      11        0   {ous types o}-{}
+      11        0   {ple collect}-{kniiiiiiii}
+      11        0   {the project}-{*.mmm}
+      10        0   {<\n>Professor}-{}
+      10        0   {Department}-{﻿****<\n>f*}
+      10        0   {amilies wi}-{}
+      10        0   {contracted}-{mmm}
+      10        0   {e just bei}-{}
+      10        0   {he followi}-{ur}
+      10        0   {history ("}-{»»inl}
+      10        0   {pedigrees,}-{W'1*1*1**'}
+      10        0   {that I bel}-{«»**}
+       9        0   {(Universi}-{$gmH }
+       9        0   {. Lynch w}-{}
+       9        0   {1PG<\n>Telep}-{I I }
+       9        0   {Metabolis}-{mmm mm* }
+       9        0   {acology<\n>S}-{�<82>� }
+       9        0   {colleague}-{«<<}
+       9        0   {culture a}-{mmmmmmmr}
+       9        0   {ell trans}-{HPi}
+       9        0   {ey R Idle}-{n<\n>mmmmm}
+       9        0   {fall into}-{jH|»»»}
+       9        0   {groups of}-{«Mt*<\n>-}
+       9        0   {he needs }-{f}
+       9        0   {kindreds,}-{«#}
+       9        0   {on-costs.}-{mm}
+       9        0   {s for var}-{}
+       9        0   {s my conv}-{iUlr'}
+       9        0   {studying }-{^^S}
+       9        0   {subjects,}-{if}
+       9        0   {ve cancer}-{' fi>MWHl}
+       9        0   {we should}-{HM»}
+       8        0   { with co}-{}
+       8        0   {$30,000.}-{mmm}
+       8        0   {($45,000}-{<m}
+       8        0   {Caldwell}-{mm}
+       8        0   {Hospital}-{wm wm}
+       8        0   {I feel s}-{}
+       8        0   {London)<\n>}-{Mi}
+       8        0   {cost!), }-{P-n}
+       8        0   {cs of lu}-{NNH}
+       8        0   {eld stud}-{}
+       8        0   {ented by}-{0mm0*mm}
+       8        0   {how best}-{* H***?}
+       8        0   {ith posi}-{».»»r}
+       8        0   {of fresh}-{t$**}
+       8        0   {olecular}-{}
+       8        0   {our end }-{ii}
+       8        0   {sporadic}-{-w}
+       8        0   {stories.}-{}
+       8        0   {there is}-{«�<80>�»}
+       7        0   {<\n>Reader}-{}
+       7        0   {$45,000}-{mmmmz}
+       7        0   {$51,600}-{Hw}
+       7        0   {(supple}-{m>mm<\n>$m}
+       7        0   {0). The}-{mmmwm*}
+       7        0   {London,}-{***}
+       7        0   {Place<\n>L}-{t}
+       7        0   {Since D}-{*****<\n>}
+       7        0   {acology}-{\ ***}
+       7        0   {alized}-{<\n>******}
+       7        0   {already}-{mm}
+       7        0   {batches}-{mm$}
+       7        0   {cancers}-{*}
+       7        0   {e shall}-{ii}
+       7        0   {g point}-{um}
+       7        0   {he oppo}-{}
+       7        0   {in Phar}-{*m}
+       7        0   {in Phar}-{f}
+       7        0   {interes}-{mmmmm% }
+       7        0   {italize}-{mm-}
+       7        0   {looking}-{*}
+       7        0   {mmortal}-{4|}
+       7        0   {need Ms}-{)i}
+       7        0   {of Phar}-{1mmm*}
+       7        0   {on each}-{**** ^}
+       7        0   {on high}-{ft*<\n>&}
+       7        0   {provide}-{-}
+       7        0   {ransfor}-{mmmmmmm}
+       7        0   {studies}-{> »«*}
+       7        0   {studies}-{mhmI}
+       7        0   {to Newc}-{*»#« }
+       7        0   {togethe}-{}
+       7        0   {which a}-{mm}
+       7        0   {will be}-{grtU«}
+       6        0   { C. So}-{}
+       6        0   { Dewar}-{mmmm}
+       6        0   { Schoo}-{}
+       6        0   {01-723}-{�<80>�}
+       6        0   {A<\n>Dear}-{}
+       6        0   {Bioche}-{wmm}
+       6        0   {Lynch.}-{mm*}
+       6        0   {Martin}-{*}
+       6        0   {We are}-{mmm*m}
+       6        0   {aking }-{TEU}
+       6        0   {blood }-{�<80><94><\n>}
+       6        0   {cancer}-{#}
+       6        0   {cancer}-{****}
+       6        0   {cancer}-{mmmm}
+       6        0   {cannot}-{>}
+       6        0   {cell l}-{5511}
+       6        0   {e Pont}-{}
+       6        0   {es of }-{A}
+       6        0   {family}-{«MVH}
+       6        0   {future}-{-}
+       6        0   {latter}-{mmm}
+       6        0   {ll be }-{}
+       6        0   {low fa}-{.}
+       6        0   {n Phar}-{wi^}
+       6        0   {of the}-{-mm}
+       6        0   {of the}-{mm*;}
+       6        0   {on, we}-{>p»}
+       6        0   {onths)}-{}
+       6        0   {orfolk}-{|ic}
+       6        0   {orphis}-{}
+       6        0   {salary}-{m}
+       6        0   {should}-{�<80><94>}
+       6        0   {sk.}-{}
+       6        0   {study.}-{mm}
+       6        0   {tchell}-{mm'}
+       6        0   {though}-{f}
+       6        0   {two ty}-{}
+       6        0   {view, }-{}
+       6        0   {which }-{o}
+       5        0   {$5 to}-{<»}
+       5        0   {+ 2/3}-{mm}
+       5        0   {- out}-{m>}
+       5        0   {CTR?)}-{Him}
+       5        0   {Lynch}-{%Hmm}
+       5        0   {These}-{mm}
+       5        0   {about}-{m}
+       5        0   {colon}-{**«#}
+       5        0   {costs}-{mm}
+       5        0   {could}-{mm-*}
+       5        0   {e bel}-{}
+       5        0   {e tha}-{}
+       5        0   {equal}-{«}
+       5        0   {genet}-{}
+       5        0   {lines}-{-}
+       5        0   {lines}-{mm}
+       5        0   {or B-}-{}
+       5        0   {ormat}-{}
+       5        0   {other}-{!»*#}
+       5        0   {pheno}-{Nww}
+       5        0   {relat}-{}
+       5        0   {size;}-{*}
+       5        0   {stle.}-{*}
+       5        0   {the f}-{M}
+       5        0   {these}-{*»}
+       5        0   {toto,}-{m*m}
+       5        0   {up wi}-{^m^}
+       5        0   {with }-{W»n}
+       5        0   {would}-{HM}
+       5        0   {yped }-{}
+       4        0   { and}-{)}
+       4        0   {$500}-{mm}
+       4        0   {($16}-{mm&}
+       4        0   {(2/3}-{mm*}
+       4        0   {(cf.}-{m*}
+       4        0   {2000}-{<#}
+       4        0   {Char}-{}
+       4        0   {Drug}-{**}
+       4        0   {EBV-}-{}
+       4        0   {Here}-{#}
+       4        0   {Jack}-{Im}
+       4        0   {Jeff}-{mmm}
+       4        0   {John}-{(mm}
+       4        0   {P450}-{mm§}
+       4        0   {Phar}-{mmm}
+       4        0   {Pont}-{}
+       4        0   {Such}-{t}
+       4        0   {able}-{$}
+       4        0   {bear}-{iM>}
+       4        0   {bers}-{}
+       4        0   {case}-{|||}
+       4        0   {ca}-{}
+       4        0   {cell}-{ *}
+       4        0   {cell}-{*m}
+       4        0   {cell}-{mmm}
+       4        0   {cost}-{#«f}
+       4        0   {ctio}-{ m»}
+       4        0   {e,<\n>S}-{}
+       4        0   {each}-{f1}
+       4        0   {ed}-{}
+       4        0   {eve }-{K}
+       4        0   {four}-{t***}
+       4        0   {gree}-{}
+       4        0   {h}-{}
+       4        0   {lial}-{*}
+       4        0   {line}-{mm}
+       4        0   {lung}-{�<80>�}
+       4        0   {need}-{*m\}
+       4        0   {of}-{m}
+       4        0   {one:}-{i}
+       4        0   {only}-{»#}
+       4        0   {orts}-{mmv}
+       4        0   {ory,}-{,#A}
+       4        0   {ould}-{*}
+       4        0   {poly}-{}
+       4        0   {quid}-{m*}
+       4        0   {risk}-{I}
+       4        0   {rong}-{Mmfc}
+       4        0   {ry's}-{**"*}
+       4        0   {sk o}-{}
+       4        0   {they}-{*}
+       4        0   {thus}-{m*}
+       4        0   {turn}-{i }
+       4        0   {us s}-{«i}
+       4        0   {very}-{mm*}
+       4        0   {vivo}-{*}
+       4        0   {will}-{-}
+       4        0   {will}-{m*mm}
+       3        0   {<\n>W2}-{***}
+       3        0   {$75}-{*mm}
+       3        0   {. M}-{w}
+       3        0   {.e.}-{m^}
+       3        0   {18 }-{m}
+       3        0   {400}-{***}
+       3        0   {Dr.}-{mm}
+       3        0   {Hen}-{«}
+       3        0   {L S}-{m}
+       3        0   {Med}-{t}
+       3        0   {NIH}-{mm}
+       3        0   {New}-{I}
+       3        0   {add}-{im}
+       3        0   {aha}-{}
+       3        0   {ail}-{m*}
+       3        0   {all}-{i}
+       3        0   {and}-{*#}
+       3        0   {and}-{.}
+       3        0   {are}-{mm}
+       3        0   {but}-{mmm}
+       3        0   {cal}-{*}
+       3        0   {es }-{}
+       3        0   {eve}-{#}
+       3        0   {for}-{mm\}
+       3        0   {for}-{mm}
+       3        0   {for}-{m}
+       3        0   {fro}-{m}
+       3        0   {hat}-{m$}
+       3        0   {he }-{Tmm}
+       3        0   {he }-{}
+       3        0   {his}-{«}
+       3        0   {ill}-{}
+       3        0   {ing}-{mm}
+       3        0   {is }-{v<\n>m}
+       3        0   {ith}-{}
+       3        0   {mer}-{}
+       3        0   {n's}-{}
+       3        0   {nce}-{}
+       3        0   {ndo}-{r}
+       3        0   {nes}-{ S}
+       3        0   {ng }-{H,i}
+       3        0   {ng }-{M}
+       3        0   {nit}-{}
+       3        0   {oge}-{}
+       3        0   {on,}-{Mi}
+       3        0   {on,}-{mm*}
+       3        0   {on.}-{}
+       3        0   {one}-{mm*}
+       3        0   {ous}-{w>}
+       3        0   {ove}-{mmk}
+       3        0   {ow"}-{.}
+       3        0   {ow"}-{»>}
+       3        0   {own}-{}
+       3        0   {per}-{w<\n>m}
+       3        0   {r}-{}
+       3        0   {set}-{m}
+       3        0   {ss }-{}
+       3        0   {tha}-{w«}
+       3        0   {the}-{^}
+       3        0   {the}-{mmm}
+       3        0   {var}-{M}
+       3        0   {y}-{}
+       2        0   { i}-{}
+       2        0   { m}-{f<\n>}
+       2        0   {10}-{4}
+       2        0   {At}-{M}
+       2        0   {In}-{mm}
+       2        0   {al}-{n}
+       2        0   {at}-{*}
+       2        0   {ay}-{n}
+       2        0   {be}-{*}
+       2        0   {be}-{mm}
+       2        0   {by}-{m}
+       2        0   {co}-{m}
+       2        0   {ed}-{ *}
+       2        0   {fa}-{«}
+       2        0   {g}-{}
+       2        0   {he}-{ *}
+       2        0   {in}-{mm}
+       2        0   {in}-{v*}
+       2        0   {le}-{}
+       2        0   {ly}-{ u}
+       2        0   {ly}-{}
+       2        0   {my}-{*}
+       2        0   {ne}-{f}
+       2        0   {no}-{«}
+       2        0   {n}-{r}
+       2        0   {of}-{**}
+       2        0   {of}-{a,}
+       2        0   {of}-{m\}
+       2        0   {on}-{m}
+       2        0   {or}-{ m}
+       2        0   {sh}-{0}
+       2        0   {st}-{«}
+       2        0   {su}-{m}
+       2        0   {th}-{}
+       2        0   {to}-{*}
+       2        0   {to}-{4}
+       2        0   {to}-{m}
+       2        0   {up}-{t}
+       2        0   {up}-{}
+       2        0   {we}-{*}
+       2        0   {y }-{*m}
+       1        0   {:}-{-}
+       1        0   {B}-{}
+       1        0   {I}-{i}
+       1        0   {I}-{}
+       1        0   {J}-{*}
+       1        0   {a}-{-}
+       1        0   {e}-{t}
+       1        0   {g}-{m}
+       1        0   {i}-{}
+       1        0   {k}-{}
+       1        0   {n}-{y}
+       1        0   {o}-{*}
+       1        0   {o}-{W}
+       1        0   {o}-{a}
+       1        0   {o}-{i}
+       1        0   {o}-{}
+       1        0   {r}-{H}
+       1        0   {r}-{f}
+       1        0   {s}-{}
+       1        0   {t}-{ }
+       1        0   {w}-{g}
+       1        0   {w}-{}
+       1        0   {}-{H}
+       1        0   {}-{W}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       2        0   {n}-{r}
+       1        0   {I}-{i}
+       1        0   {J}-{*}
+       1        0   {a}-{-}
+       1        0   {e}-{t}
+       1        0   {g}-{m}
+       1        0   {n}-{y}
+       1        0   {o}-{*}
+       1        0   {o}-{W}
+       1        0   {o}-{a}
+       1        0   {o}-{i}
+       1        0   {r}-{H}
+       1        0   {r}-{f}
+       1        0   {t}-{ }
+       1        0   {w}-{g}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+       4        0   {of}-{m}
+       2        0   {10}-{4}
+       2        0   {At}-{M}
+       2        0   {al}-{n}
+       2        0   {at}-{*}
+       2        0   {ay}-{n}
+       2        0   {be}-{*}
+       2        0   {by}-{m}
+       2        0   {co}-{m}
+       2        0   {my}-{*}
+       2        0   {ne}-{f}
+       2        0   {on}-{m}
+       2        0   {sh}-{0}
+       2        0   {su}-{m}
+       2        0   {to}-{*}
+       2        0   {to}-{4}
+       2        0   {to}-{m}
+       2        0   {up}-{t}
+       2        0   {we}-{*}
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+       2        0   {In}-{mm}
+       2        0   {be}-{mm}
+       2        0   {ed}-{ *}
+       2        0   {fa}-{«}
+       2        0   {he}-{ *}
+       2        0   {in}-{mm}
+       2        0   {in}-{v*}
+       2        0   {ly}-{ u}
+       2        0   {no}-{«}
+       2        0   {of}-{**}
+       2        0   {of}-{a,}
+       2        0   {of}-{m\}
+       2        0   {or}-{ m}
+       2        0   {st}-{«}
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       4        0   {o}-{* | W | a | i}
+       3        0   {n}-{r | y}
+       2        0   {r}-{H | f}
+       1        0   {I}-{i}
+       1        0   {J}-{*}
+       1        0   {a}-{-}
+       1        0   {e}-{t}
+       1        0   {g}-{m}
+       1        0   {t}-{ }
+       1        0   {w}-{g}
+
+   Count   Missed   %Right
+      24       22     8.33   {<\n>}
+     415      172    58.55   { }
+       1        1     0.00   {!}
+       6        6     0.00   {"}
+      11       11     0.00   {$}
+       2        2     0.00   {'}
+       8        8     0.00   {(}
+       8        8     0.00   {)}
+       2        2     0.00   {+}
+      19       19     0.00   {,}
+       7        6    14.29   {-}
+      24       22     8.33   {.}
+       3        3     0.00   {/}
+      38       37     2.63   {0}
+      13       13     0.00   {1}
+       9        9     0.00   {2}
+       5        5     0.00   {3}
+       5        5     0.00   {4}
+       9        9     0.00   {5}
+       4        4     0.00   {6}
+       3        3     0.00   {7}
+       3        3     0.00   {8}
+       1        1     0.00   {9}
+       3        3     0.00   {:}
+       1        1     0.00   {;}
+       1        1     0.00   {?}
+       7        7     0.00   {A}
+       5        5     0.00   {B}
+       6        6     0.00   {C}
+       8        8     0.00   {D}
+       2        2     0.00   {E}
+       1        1     0.00   {G}
+       4        4     0.00   {H}
+       9        9     0.00   {I}
+       6        6     0.00   {J}
+      12       12     0.00   {L}
+       8        8     0.00   {M}
+       5        4    20.00   {N}
+       3        3     0.00   {O}
+      14       14     0.00   {P}
+       6        6     0.00   {R}
+      12       11     8.33   {S}
+       5        5     0.00   {T}
+       2        2     0.00   {U}
+       1        1     0.00   {V}
+       3        3     0.00   {W}
+     121      118     2.48   {a}
+      27       27     0.00   {b}
+      93       92     1.08   {c}
+      59       59     0.00   {d}
+     215      214     0.47   {e}
+      49       44    10.20   {f}
+      37       37     0.00   {g}
+      93       91     2.15   {h}
+     141       88    37.59   {i}
+       4        4     0.00   {j}
+      13       13     0.00   {k}
+     124      117     5.65   {l}
+      50       16    68.00   {m}
+     126      110    12.70   {n}
+     178      175     1.69   {o}
+      37       34     8.11   {p}
+       3        3     0.00   {q}
+     127      118     7.09   {r}
+     113      112     0.88   {s}
+     148      120    18.92   {t}
+      56       56     0.00   {u}
+      17       17     0.00   {v}
+      38       32    15.79   {w}
+       2        2     0.00   {x}
+      44       44     0.00   {y}
+       3        3     0.00   {z}

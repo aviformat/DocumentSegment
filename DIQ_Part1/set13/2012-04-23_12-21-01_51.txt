@@ -1,0 +1,7 @@
+﻿Figure 3: Processing image sequences
+to be wasted on segments that cannot be reconstructed accurately because their 3-D orientation is parallel to the direction of motion. Generally, the line detector ignores many undesirable segments that result from non-architectural elements of the scene, which should not appear in a CAD model (such as people walking by). This, too, makes wrong matches lets likely.
+4 Result*
+|,1 Results and Evaluation
+Figure 4 show* one image in a sequence and the corresponding 2-D line segment* IT. The barret distortion visible in the intensity image is corrected before the Use detector ii nta.
+Result* of the reconstruction of vertical edges in this indoor scene are shown in Figure $ The vertical edges are represented by small *+* signs. Both top wewt are shown over • cm* meter spacing grid The left map represent* actual measurements in the scene. The r?gbt map is the result of the reconstruction Tbe robot was mowing up in the a*?, acquiring an. image every meter The last position of the robot « r»ptesen'»«d If a smalt dot a? the bottom of the msjii
+The comparison of the two map* *bow* that the accuracy df roeottrtfttrtinn <nn spprsacfe the pseoswe at an architect wrai fiooc plan	fact, m wemm lustarxes, (k

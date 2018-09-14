@@ -1,0 +1,7 @@
+﻿Pi gar* 3: Prectumf mift Mfwuti
+to be wasted os segment* chat cannot be ncoMiratted accurately btcauw their 3-D orientation is parallel to the direction el motion. Generally, the line detector ignores many undesirable segments that result from non-architectural elements of the scene, which should not appear in a CAD model (such u people walking by). This, too, makes wrong matches less likely.
+4 Results
+4-1 Results and Evaluation
+Figure 4 shows one image in a sequence and the corresponding 2*D line segments 12], The barrel distortion visible in the intensity image is corrected before the line detector is run.
+Results of the reconstruction of vertical edges in this indoor scene are shown in Figure 5. The vertical edges are represented by small "+•" signs. Both top views are shown over a one meter spacing grid. The left map represents actual measurements in the scene. The right map is the result of the reconstruction. The robot was moving up in the map, acquiring an image every meter. The last position of the robot is represented by a small dot at the bottom of the map.
+The comparison of the two maps shows that the accuracy of the reconstruction can approach the precision of an architectural floor plan (3). In fact, in some instances, the

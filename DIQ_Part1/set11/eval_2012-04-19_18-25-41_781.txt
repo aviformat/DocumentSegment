@@ -1,0 +1,440 @@
+-----------------------------------------
+    2525   Characters
+     823   Errors
+   67.41%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   67.41%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     215      546       62      823   Unmarked
+     215      546       62      823   Total
+
+   Count   Missed   %Right
+     378       36    90.48   ASCII Spacing Characters
+      70       27    61.43   ASCII Special Symbols
+      36        8    77.78   ASCII Digits
+     115       31    73.04   ASCII Uppercase Letters
+    1920      656    65.83   ASCII Lowercase Letters
+       1        1     0.00   Latin1 Control Codes
+       3        1    66.67   Latin1 Special Symbols
+       2        1    50.00   Latin1 Lowercase Letters
+    2525      761    69.86   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      15        0   {Texas 78712-108}-{tmm VttJ9Â«lÂ§$}
+      12        0   { navigation.}-{}
+      12        0   {measurements}-{li}
+      12        0   {resentation }-{flMHfclM Ir}
+      12        0   {t. This pape}-{b<\n>}
+      10        0   {ot are pre}-{i fflttfti}
+      10        0   {plications}-{h^M.}^.^}
+       9        0   {he scene.}-{***<\n>TW}
+       9        0   {surement}-{tff$MM* I}
+       8        0   {Computer}-{flwiifay}
+       8        0   {Research}-{HmmwM}
+       8        0   {RoboTex}-{Itei^fyt}
+       8        0   {Universi}-{VW9$*9}
+       8        0   {a}-{ft}
+       8        0   {building}-{hi>1<to|}
+       8        0   {es of mo}-{idBw<\n>ir}
+       8        0   {resentat}-{iwicui}
+       8        0   {s}-{t}
+       7        0   {RoboTex}-{Ib^tisi}
+       7        0   {Texas a}-{Â«Â£ Af}
+       7        0   {current}-{(mm Hi}
+       7        0   {ese}-{â<82>¬Sâ<82>¬}
+       7        0   {esigned}-{t^gswNi}
+       7        0   {ng, and}-{a<ii|t}
+       7        0   {very ac}-{wy *â<82>¬}
+       6        0   {Engr.,}-{6}
+       6        0   {The ha}-{ImKnm }
+       6        0   {U.S.A.}-{ff-JlJ}
+       6        0   {Xavier}-{Mmm}
+       6        0   {accura}-{Miml}
+       6        0   {automa}-{MfcWMf}
+       6        0   {echniq}-{ftHt}
+       6        0   {enter,}-{m}
+       6        0   {hasis}-{lftttt}
+       6        0   {ically}-{Bf}
+       6        0   {ionall}-{kmiD}
+       6        0   {ldings}-{}
+       6        0   {projec}-{}
+       6        0   {robot }-{mInk<\n>}
+       6        0   {s used}-{flMfc*}
+       6        0   {sults}-{tttifi}
+       6        0   {unders}-{iKi}
+       6        0   {veyin}-{wni *a}
+       6        0   {}-{t}
+       5        0   {.}-{}
+       5        0   {This }-{}
+       5        0   {al em}-{t tas}
+       5        0   {archi}-{t}
+       5        0   {a}-{f}
+       5        0   {dware}-{f}
+       5        0   {ented}-{ij}
+       5        0   {e}-{t}
+       5        0   {ibed}-{tl**!}
+       5        0   {ision}-{wum}
+       5        0   {mages}-{}
+       5        0   {ndoor}-{eee}
+       5        0   {robot}-{tie}
+       5        0   {tasks}-{Uiiti}
+       5        0   {tin, }-{*<\n>}
+       5        0   {urate}-{otil*}
+       5        0   {using}-{*}
+       5        0   {utom}-{riMMt}
+       4        0   {Here}-{But}
+       4        0   {RWAL}-{Â«}
+       4        0   {able}-{iUi}
+       4        0   {arc}-{ftft}
+       4        0   {atus}-{o}
+       4        0   {cess}-{ttt*}
+       4        0   {clos}-{ek*}
+       4        0   {cons}-{t**M}
+       4        0   {deve}-{iits}
+       4        0   {e ro}-{iI}
+       4        0   {e}-{c}
+       4        0   {f bu}-{Btf}
+       4        0   {have}-{Imm}
+       4        0   {h}-{b}
+       4        0   {impo}-{IwfN}
+       4        0   {issu}-{tata}
+       4        0   {me}-{fllM}
+       4        0   {n ex}-{ftg }
+       4        0   {ng}-{i*Â£}
+       4        0   {ocul}-{}
+       4        0   {om}-{caa-}
+       4        0   {on}-{ftft}
+       4        0   {rect}-{ttl}
+       4        0   {rela}-{m*f}
+       4        0   {rob}-{lufr}
+       4        0   {sema}-{Hnun}
+       4        0   {tat}-{UlMe}
+       4        0   {tion}-{lKm}
+       4        0   {to d}-{#}
+       4        0   {ural}-{i}
+       4        0   {y of}-{&Â§}
+       3        0   { Au}-{jt}
+       3        0   {.}-{,}
+       3        0   {Ele}-{Sk}
+       3        0   {The}-{HÂ»}
+       3        0   {acy}-{Ki}
+       3        0   {al}-{fti}
+       3        0   {and}-{E}
+       3        0   {and}-{fii}
+       3        0   {and}-{mi}
+       3        0   {as}-{Â«i}
+       3        0   {cal}-{nm!}
+       3        0   {ect}-{^tl}
+       3        0   {e}-{}
+       3        0   {f}-{l}
+       3        0   {he}-{fct}
+       3        0   {ile}-{}
+       3        0   {ims}-{ta*}
+       3        0   {in,}-{**+}
+       3        0   {is }-{}
+       3        0   {ng }-{*t}
+       3        0   {ori}-{}
+       3        0   {pro}-{jw}
+       3        0   {rac}-{pie}
+       3        0   {rec}-{xk}
+       3        0   {rob}-{Tlt}
+       3        0   {sh}-{afe}
+       3        0   {s}-{Â«j}
+       3        0   {tan}-{fif}
+       3        0   {the}-{ilt}
+       3        0   {the}-{Â«f}
+       3        0   {to }-{}
+       3        0   {ui}-{*, }
+       3        0   {w}-{unt}
+       3        0   {}-{i}
+       3        0   {â<80>¢}-{'}
+       2        0   { r}-{}
+       2        0   {,}-{Â»}
+       2        0   {Th}-{t}
+       2        0   {UE}-{i}
+       2        0   {a }-{w}
+       2        0   {al}-{*!}
+       2        0   {an}-{m}
+       2        0   {an}-{to}
+       2        0   {as}-{m}
+       2        0   {bu}-{tm}
+       2        0   {b}-{fe}
+       2        0   {c }-{tr}
+       2        0   {ce}-{}
+       2        0   {c}-{}
+       2        0   {ec}-{rf}
+       2        0   {ep}-{<^}
+       2        0   {es}-{**}
+       2        0   {ex}-{iX}
+       2        0   {e}-{ti}
+       2        0   {ha}-{bf}
+       2        0   {he}-{in}
+       2        0   {he}-{kf}
+       2        0   {he}-{ta}
+       2        0   {he}-{}
+       2        0   {in}-{H?}
+       2        0   {in}-{m}
+       2        0   {is}-{sa}
+       2        0   {i}-{*<}
+       2        0   {lo}-{i}
+       2        0   {l}-{i}
+       2        0   {n }-{}
+       2        0   {n.}-{Â®}
+       2        0   {ng}-{}
+       2        0   {n}-{a}
+       2        0   {n}-{fi}
+       2        0   {n}-{}
+       2        0   {of}-{a4}
+       2        0   {on}-{}
+       2        0   {ot}-{e*}
+       2        0   {o}-{e}
+       2        0   {qu}-{w}
+       2        0   {r }-{gt}
+       2        0   {re}-{It}
+       2        0   {re}-{w}
+       2        0   {ro}-{f^}
+       2        0   {ru}-{ff}
+       2        0   {se}-{jw}
+       2        0   {si}-{n}
+       2        0   {st}-{H}
+       2        0   {su}-{ta}
+       2        0   {s}-{ft}
+       2        0   {s}-{f}
+       2        0   {s}-{}
+       2        0   {th}-{l'}
+       2        0   {to}-{I*}
+       2        0   {tr}-{}
+       2        0   {t}-{l}
+       2        0   {us}-{n*}
+       2        0   {ys}-{f}
+       2        0   {}-{* }
+       2        0   {}-{ft}
+       2        0   {}-{it}
+       2        0   {}-{Â«}
+       1        0   { }-{<\n>}
+       1        0   { }-{c}
+       1        0   { }-{d}
+       1        0   {'}-{}
+       1        0   {,}-{.}
+       1        0   {-}-{*}
+       1        0   {.}-{k}
+       1        0   {D}-{0}
+       1        0   {G}-{O}
+       1        0   {R}-{H}
+       1        0   {a}-{ }
+       1        0   {a}-{$}
+       1        0   {a}-{*}
+       1        0   {a}-{i}
+       1        0   {a}-{m}
+       1        0   {c}-{f}
+       1        0   {c}-{t}
+       1        0   {e}-{#}
+       1        0   {e}-{d}
+       1        0   {e}-{m}
+       1        0   {h}-{}
+       1        0   {i}-{}
+       1        0   {l}-{!}
+       1        0   {l}-{d}
+       1        0   {n}-{*}
+       1        0   {n}-{m}
+       1        0   {n}-{o}
+       1        0   {o}-{t}
+       1        0   {o}-{}
+       1        0   {r}-{?}
+       1        0   {r}-{f}
+       1        0   {r}-{t}
+       1        0   {s}-{*}
+       1        0   {t}-{ }
+       1        0   {t}-{i}
+       1        0   {t}-{r}
+       1        0   {t}-{}
+       1        0   {v}-{o}
+       1        0   {}-{ }
+       1        0   {}-{.}
+       1        0   {}-{c}
+       1        0   {}-{m}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       8        0   {s}-{t}
+       5        0   {a}-{f}
+       5        0   {e}-{t}
+       4        0   {e}-{c}
+       4        0   {h}-{b}
+       3        0   {f}-{l}
+       2        0   {l}-{i}
+       2        0   {n}-{a}
+       2        0   {o}-{e}
+       2        0   {s}-{f}
+       2        0   {t}-{l}
+       1        0   {D}-{0}
+       1        0   {G}-{O}
+       1        0   {R}-{H}
+       1        0   {a}-{ }
+       1        0   {a}-{$}
+       1        0   {a}-{*}
+       1        0   {a}-{i}
+       1        0   {a}-{m}
+       1        0   {c}-{f}
+       1        0   {c}-{t}
+       1        0   {e}-{#}
+       1        0   {e}-{d}
+       1        0   {e}-{m}
+       1        0   {l}-{!}
+       1        0   {l}-{d}
+       1        0   {n}-{*}
+       1        0   {n}-{m}
+       1        0   {n}-{o}
+       1        0   {o}-{t}
+       1        0   {r}-{?}
+       1        0   {r}-{f}
+       1        0   {r}-{t}
+       1        0   {s}-{*}
+       1        0   {t}-{ }
+       1        0   {t}-{i}
+       1        0   {t}-{r}
+       1        0   {v}-{o}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+       8        0   {a}-{ft}
+       2        0   {b}-{fe}
+       2        0   {e}-{ti}
+       2        0   {i}-{*<}
+       2        0   {n}-{fi}
+       2        0   {s}-{ft}
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+       2        0   {Th}-{t}
+       2        0   {UE}-{i}
+       2        0   {an}-{m}
+       2        0   {as}-{m}
+       2        0   {in}-{m}
+       2        0   {lo}-{i}
+       2        0   {qu}-{w}
+       2        0   {re}-{w}
+       2        0   {si}-{n}
+       2        0   {st}-{H}
+       2        0   {ys}-{f}
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+       2        0   {al}-{*!}
+       2        0   {an}-{to}
+       2        0   {bu}-{tm}
+       2        0   {ec}-{rf}
+       2        0   {ep}-{<^}
+       2        0   {es}-{**}
+       2        0   {ex}-{iX}
+       2        0   {ha}-{bf}
+       2        0   {he}-{in}
+       2        0   {he}-{kf}
+       2        0   {he}-{ta}
+       2        0   {in}-{H?}
+       2        0   {is}-{sa}
+       2        0   {of}-{a4}
+       2        0   {ot}-{e*}
+       2        0   {re}-{It}
+       2        0   {ro}-{f^}
+       2        0   {ru}-{ff}
+       2        0   {se}-{jw}
+       2        0   {su}-{ta}
+       2        0   {th}-{l'}
+       2        0   {to}-{I*}
+       2        0   {us}-{n*}
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+      12        0   {e}-{t | c | # | d | m}
+      11        0   {s}-{t | f | *}
+      10        0   {a}-{f |   | $ | * | i | m}
+       5        0   {n}-{a | * | m | o}
+       5        0   {t}-{l |   | i | r}
+       4        0   {h}-{b}
+       4        0   {l}-{i | ! | d}
+       3        0   {f}-{l}
+       3        0   {o}-{e | t}
+       3        0   {r}-{? | f | t}
+       2        0   {c}-{f | t}
+       1        0   {D}-{0}
+       1        0   {G}-{O}
+       1        0   {R}-{H}
+       1        0   {v}-{o}
+
+   Count   Missed   %Right
+       9        0   100.00   {<\n>}
+     369       36    90.24   { }
+       1        1     0.00   {'}
+       1        0   100.00   {(}
+       1        0   100.00   {)}
+       1        0   100.00   {*}
+      23        7    69.57   {,}
+      12        2    83.33   {-}
+      28       17    39.29   {.}
+       8        1    87.50   {0}
+       5        2    60.00   {1}
+       3        1    66.67   {2}
+       6        0   100.00   {3}
+       4        0   100.00   {4}
+       1        0   100.00   {5}
+       1        0   100.00   {6}
+       2        2     0.00   {7}
+       3        2    33.33   {8}
+       3        0   100.00   {9}
+       3        0   100.00   {:}
+      17        3    82.35   {A}
+       2        0   100.00   {B}
+       9        1    88.89   {C}
+      12        1    91.67   {D}
+       7        3    57.14   {E}
+       3        0   100.00   {F}
+       4        1    75.00   {G}
+       1        1     0.00   {H}
+       3        0   100.00   {I}
+       2        0   100.00   {J}
+       1        0   100.00   {K}
+       3        1    66.67   {L}
+       1        0   100.00   {M}
+       6        0   100.00   {O}
+       2        0   100.00   {P}
+      10        5    50.00   {R}
+       5        1    80.00   {S}
+      20        9    55.00   {T}
+       3        3     0.00   {U}
+       1        0   100.00   {V}
+       1        1     0.00   {W}
+       2        1    50.00   {X}
+     150       66    56.00   {a}
+      36       12    66.67   {b}
+      99       29    70.71   {c}
+      56       15    73.21   {d}
+     229       95    58.52   {e}
+      39        7    82.05   {f}
+      27       11    59.26   {g}
+      74       27    63.51   {h}
+     137       40    70.80   {i}
+       4        1    75.00   {j}
+       1        1     0.00   {k}
+      61       24    60.66   {l}
+      37       14    62.16   {m}
+     134       54    59.70   {n}
+     169       47    72.19   {o}
+      51        9    82.35   {p}
+       3        2    33.33   {q}
+     156       46    70.51   {r}
+     141       65    53.90   {s}
+     189       44    76.72   {t}
+      62       25    59.68   {u}
+      14        8    42.86   {v}
+      16        2    87.50   {w}
+       7        6    14.29   {x}
+      27        6    77.78   {y}
+       1        0   100.00   {z}
+       1        1     0.00   {<80>}
+       1        1     0.00   {¢}
+       1        0   100.00   {»}
+       1        0   100.00   {¿}
+       1        1     0.00   {â}
+       1        0   100.00   {ï}

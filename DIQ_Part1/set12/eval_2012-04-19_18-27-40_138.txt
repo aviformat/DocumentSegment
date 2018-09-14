@@ -1,0 +1,420 @@
+-----------------------------------------
+    1863   Characters
+    1563   Errors
+   16.10%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   16.10%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     807      755        1     1563   Unmarked
+     807      755        1     1563   Total
+
+   Count   Missed   %Right
+     286      126    55.94   ASCII Spacing Characters
+      46       42     8.70   ASCII Special Symbols
+      17       17     0.00   ASCII Digits
+      52       46    11.54   ASCII Uppercase Letters
+    1459     1331     8.77   ASCII Lowercase Letters
+       2        0   100.00   Latin1 Special Symbols
+       1        0   100.00   Latin1 Lowercase Letters
+    1863     1562    16.16   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      24        0   {Graphics Research La...}-{km*mt}
+      21        0   {approach, we would l...}-{AtjM^Mi^^M}
+      20        0   {have concentrated on}-{'WWS'UpfW- 'WW ^BP}
+      20        0   {postured human image}-{__â<80><9E>___j**<\n>.....}
+      15        0   {cumbersome. We }-{MgMM}
+      14        0   { 6 DOF sensors}-{t<\n>f!KÂ£!3|E}
+      14        0   {Sensors<\n>Norman}-{I}
+      14        0   {rtual Human Us}-{}
+      13        0   {2 Background<\n>}-{^iiilWB}
+      13        0   {Philadelphia,}-{M *$Â» ******}
+      13        0   {and how much }-{MgMMMllL<\n>Aj}
+      13        0   {to accurately}-{â<80>¢,}
+      12        0   {Pennsylvania}-{Â«*Â§}
+      12        0   {Real-Time Co}-{<\n>H}
+      12        0   {an interface}-{^HMVPWIP}
+      12        0   {feasible, re}-{jMg}
+      12        0   {nforma}-{}
+      12        0   {the operator}-{MC-iJiS}
+      11        0   {articulated}-{Mmn*<\n>â<80>¢â<96>}
+      11        0   {closely mus}-{-BU}
+      11        0   {e minimally}-{HWPPPw}
+      11        0   {encumbering}-{jpr^JRHPW}
+      11        0   {operator's }-{mmmm *|}
+      11        0   {participant}-{â<80>¢}
+      11        0   {reconstruct}-{- }
+      11        0   {track every}-{pipfpi<\n><W}
+      11        0   {use 4 senso}-{'llWPi}
+      10        0   {'s posture}-{vwiM<\n>mmmm}
+      10        0   {, and map }-{i}
+      10        0   {-effectors}-{^Au^.^}
+      10        0   {Pennsylvan}-{ANuft<\n>i}
+      10        0   {Science Un}-{flAwMr}
+      10        0   {ace should}-{MiMiNI*}
+      10        0   {algorithm.}-{-}
+      10        0   {costly and}-{^gg*<\n>^â<96>}
+      10        0   {d Informat}-{gw^Nw}
+      10        0   {do we need}-{MMflMkafci}
+      10        0   {enerate a }-{f}
+      10        0   {m?<\n>As in o}-{at}
+      10        0   {questions:}-{.-}
+      10        0   {ticipant's}-{m**Â»* mm.}
+      10        0   {to measure}-{IM^<\n>.}
+       9        0   { number o}-{MMHH}
+       9        0   {1: Sensor}-{mÂ»-}
+       9        0   {Placement}-{â<80><94>}
+       9        0   {Three pie}-{^ak}
+       9        0   {human pos}-{I}
+       9        0   {nt angle)}-{>HÂ»>}
+       9        0   {ory Depar}-{%<\n>ViMiim}
+       9        0   {rticipant}-{flMMW.}
+       9        0   {rtual env}-{P}
+       9        0   {sembodied}-{././SUK}
+       9        0   {sensed jo}-{^i}
+       8        0   { human's}-{KSSii;-}
+       8        0   { sensors}-{c}
+       8        0   {Abstract}-{â<80>¢}
+       8        0   {Granieri}-{fkmmm}
+       8        0   {However,}-{* T T:}
+       8        0   {Support }-{â<80><94># ^H}
+       8        0   {areas of}-{^MM^CiK}
+       8        0   {capture }-{"Wf}
+       8        0   {creating}-{TBW^P}
+       8        0   {degree o}-{j}
+       8        0   {e severa}-{}
+       8        0   {er graph}-{ftki}
+       8        0   {essentia}-{^^dj}
+       8        0   {ete, rea}-{^^^}
+       8        0   {exactly.}-{mm}
+       8        0   {he locat}-{ .--'.-i}
+       8        0   {inverse }-{-}
+       8        0   {nematics}-{--}
+       8        0   {ostures.}-{}
+       8        0   {recreate}-{........}
+       8        0   {s degree}-{^^i.-,}
+       8        0   {standing}-{wHUPBBKP}
+       8        0   {than the}-{....<\n>â<99>¦}
+       8        0   {the posi}-{M}
+       8        0   {ull body}-{^PIHUP-}
+       7        0   { number}-{iMTt}
+       7        0   {Compute}-{iN}
+       7        0   {cessary}-{}
+       7        0   {deally,}-{W^P}
+       7        0   {depends}-{I<\n>"}
+       7        0   {erator.}-{p **Â»}
+       7        0   {onal "d}-{}
+       7        0   {our pos}-{i}
+       7        0   {posture}-{*}
+       7        0   {posture}-{Â£>}
+       7        0   {ronment}-{}
+       7        0   {s to re}-{}
+       7        0   {segment}-{Â«Â«}
+       7        0   {sonably}-{g^<\n>=-}
+       7        0   {that wi}-{1<\n>jA}
+       7        0   {to deri}-{}
+       7        0   {vector,}-{0m}
+       6        0   {6389<\n>1}-{}
+       6        0   {Figure}-{mm}
+       6        0   {Rather}-{m#m*m}
+       6        0   {[11]. }-{WIW}
+       6        0   {a good}-{mm&wm}
+       6        0   {approx}-{i}
+       6        0   {center}-{*}
+       6        0   {create}-{"<\n>**m}
+       6        0   {dler M}-{fc}
+       6        0   {ically}-{^^}
+       6        0   {ion ar}-{}
+       6        0   {ion}-{}
+       6        0   {mation}-{M&<}
+       6        0   {minima}-{.J}
+       6        0   {model.}-{I}
+       6        0   {needed}-{*Â»*}
+       6        0   {olygon}-{ 1<\n>}
+       6        0   {rack, }-{>l}
+       6        0   {recrea}-{}
+       6        0   {the en}-{..itl }
+       6        0   {to<\n>per}-{^MHHM}
+       6        0   {to ach}-{-}
+       5        0   { real}-{i}
+       5        0   {19104}-{}
+       5        0   {a hum}-{m*<\n>fr}
+       5        0   {algor}-{i}
+       5        0   {asks,}-{ill}
+       5        0   {basic}-{A}
+       5        0   {body,}-{â<96>}
+       5        0   {ccura}-{}
+       5        0   {chael}-{<1}
+       5        0   {cipan}-{}
+       5        0   {compu}-{ftfe'}
+       5        0   {e pos}-{f^d^}
+       5        0   {eract}-{m.}
+       5        0   {goal }-{i&}
+       5        0   {hand"}-{-}
+       5        0   {human}-{-r}
+       5        0   {human}-{^<\n>jk}
+       5        0   {human}-{â<96> Â»}
+       5        0   {inter}-{^ISM}
+       5        0   {ism n}-{jf}
+       5        0   {low a}-{MaU^}
+       5        0   {match}-{1.}
+       5        0   {n and}-{M*}
+       5        0   {n rea}-{t}
+       5        0   {ostur}-{^i^f}
+       5        0   {o}-{}
+       5        0   {posit}-{ii'4'}
+       5        0   {rol o}-{}
+       5        0   {tasks}-{^^VBP}
+       5        0   {the<\n>1}-{#}
+       5        0   {the o}-{^l^^m}
+       5        0   {ures.}-{k-}
+       5        0   {using}-{V}
+       5        0   {would}-{-}
+       4        0   { a V}-{}
+       4        0   { and}-{.--}
+       4        0   { for}-{bL.}
+       4        0   { rea}-{}
+       4        0   { the}-{.}
+       4        0   {Holl}-{f}
+       4        0   {I. B}-{Mf}
+       4        0   {VR, }-{ijlu}
+       4        0   {able}-{'}
+       4        0   {and }-{i^}
+       4        0   {body}-{H>Â»}
+       4        0   {fast}-{â<96>}
+       4        0   {grea}-{}
+       4        0   {hm: }-{}
+       4        0   {like}-{HHW}
+       4        0   {ment}-{*}
+       4        0   {ng M}-{}
+       4        0   {ng a}-{ttft}
+       4        0   {nima}-{ll}
+       4        0   {of a}-{>-v}
+       4        0   {of a}-{A*!?}
+       4        0   {oned}-{fcS}
+       4        0   {part}-{. . }
+       4        0   {rtua}-{}
+       4        0   {trad}-{v.}
+       4        0   {ures}-{M<\n>"I}
+       4        0   {view}-{m}
+       4        0   {will}-{Mb}
+       4        0   {with}-{mm}
+       4        0   {y of}-{,<\n>I}
+       3        0   { is}-{i*.}
+       3        0   {(or}-{|ii}
+       3        0   {Our}-{â<96>}
+       3        0   {The}-{Hi}
+       3        0   {We }-{}
+       3        0   {a m}-{l}
+       3        0   {a v}-{}
+       3        0   {and}-{*}
+       3        0   {and}-{-}
+       3        0   {are}-{,'}
+       3        0   {ass}-{<\n>>1}
+       3        0   {ck }-{<\n>}
+       3        0   {ent}-{pp}
+       3        0   {equ}-{}
+       3        0   {eve}-{.}
+       3        0   {e}-{}
+       3        0   {her}-{.}
+       3        0   {how}-{-}
+       3        0   {lly}-{;.}
+       3        0   {mal}-{}
+       3        0   {me,}-{>ll}
+       3        0   {nts}-{f}
+       3        0   {of }-{w}
+       3        0   {ohn}-{ab*}
+       3        0   {omp}-{}
+       3        0   {on }-{Â«}
+       3        0   {orm}-{c ^}
+       3        0   {orm}-{i}
+       3        0   {our}-{â<80>¢}
+       3        0   {per}-{I<\n>f}
+       3        0   {the}-{'}
+       3        0   {the}-{.in}
+       3        0   {the}-{â<96>}
+       3        0   {tic}-{}
+       3        0   {to }-{A}
+       3        0   {ure}-{e.}
+       3        0   {use}-{I<\n>.}
+       3        0   {whi}-{."}
+       2        0   { a}-{MM}
+       2        0   { a}-{}
+       2        0   {-t}-{}
+       2        0   {J.}-{.1}
+       2        0   {P.}-{$}
+       2        0   {an}-{}
+       2        0   {a}-{}
+       2        0   {be}-{$}
+       2        0   {by}-{34}
+       2        0   {cs}-{*}
+       2        0   {er}-{U*}
+       2        0   {es}-{.}
+       2        0   {he}-{<\n>m}
+       2        0   {he}-{}
+       2        0   {hu}-{*<\n>}
+       2        0   {in}-{m}
+       2        0   {is}-{^^}
+       2        0   {li}-{v}
+       2        0   {ly}-{}
+       2        0   {of}-{#}
+       2        0   {of}-{Â»}
+       2        0   {of}-{â<96>}
+       2        0   {on}-{*}
+       2        0   {on}-{i}
+       2        0   {on}-{}
+       2        0   {on}-{Â«}
+       2        0   {os}-{}
+       2        0   {pa}-{}
+       2        0   {pu}-{$}
+       2        0   {s,}-{iA}
+       2        0   {si}-{ff}
+       2        0   {th}-{i}
+       2        0   {to}-{-}
+       2        0   {to}-{W}
+       2        0   {to}-{w}
+       2        0   {to}-{â<96>}
+       2        0   {us}-{}
+       2        0   {ve}-{N}
+       2        0   {we}-{7}
+       1        0   { }-{l}
+       1        0   {a}-{,}
+       1        0   {a}-{-}
+       1        0   {e}-{P}
+       1        0   {e}-{^}
+       1        0   {i}-{}
+       1        0   {n}-{}
+       1        0   {o}-{(}
+       1        0   {p}-{j}
+       1        0   {p}-{v}
+       1        0   {s}-{}
+       1        0   {t}-{^}
+       1        0   {t}-{}
+       1        0   {u}-{}
+       1        0   {v}-{}
+       1        0   {}-{^}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       1        0   {a}-{,}
+       1        0   {a}-{-}
+       1        0   {e}-{P}
+       1        0   {e}-{^}
+       1        0   {o}-{(}
+       1        0   {p}-{j}
+       1        0   {p}-{v}
+       1        0   {t}-{^}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+       2        0   {be}-{$}
+       2        0   {cs}-{*}
+       2        0   {es}-{.}
+       2        0   {in}-{m}
+       2        0   {li}-{v}
+       2        0   {of}-{#}
+       2        0   {on}-{*}
+       2        0   {on}-{i}
+       2        0   {pu}-{$}
+       2        0   {th}-{i}
+       2        0   {to}-{-}
+       2        0   {to}-{W}
+       2        0   {to}-{w}
+       2        0   {ve}-{N}
+       2        0   {we}-{7}
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+       2        0   {by}-{34}
+       2        0   {er}-{U*}
+       2        0   {he}-{<\n>m}
+       2        0   {hu}-{*<\n>}
+       2        0   {is}-{^^}
+       2        0   {of}-{Â»}
+       2        0   {of}-{â<96>}
+       2        0   {on}-{Â«}
+       2        0   {si}-{ff}
+       2        0   {to}-{â<96>}
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       2        0   {a}-{, | -}
+       2        0   {e}-{P | ^}
+       2        0   {p}-{j | v}
+       1        0   {o}-{(}
+       1        0   {t}-{^}
+
+   Count   Missed   %Right
+       9        6    33.33   {<\n>}
+     277      120    56.68   { }
+       2        2     0.00   {"}
+       5        4    20.00   {'}
+       1        1     0.00   {(}
+       1        1     0.00   {)}
+      15       14     6.67   {,}
+       4        3    25.00   {-}
+      12       11     8.33   {.}
+       1        1     0.00   {0}
+       7        7     0.00   {1}
+       1        1     0.00   {2}
+       1        1     0.00   {3}
+       2        2     0.00   {4}
+       2        2     0.00   {6}
+       1        1     0.00   {8}
+       2        2     0.00   {9}
+       3        3     0.00   {:}
+       1        1     0.00   {?}
+       2        2     0.00   {A}
+       2        2     0.00   {B}
+       3        2    33.33   {C}
+       2        2     0.00   {D}
+       2        2     0.00   {F}
+       2        2     0.00   {G}
+       3        3     0.00   {H}
+       3        2    33.33   {I}
+       2        1    50.00   {J}
+       1        1     0.00   {L}
+       2        2     0.00   {M}
+       1        1     0.00   {N}
+       2        2     0.00   {O}
+       6        5    16.67   {P}
+       4        4     0.00   {R}
+       4        4     0.00   {S}
+       3        3     0.00   {T}
+       2        2     0.00   {U}
+       2        2     0.00   {V}
+       4        2    50.00   {W}
+       1        1     0.00   {[}
+       1        1     0.00   {]}
+     141      134     4.96   {a}
+      16       16     0.00   {b}
+      55       52     5.45   {c}
+      42       41     2.38   {d}
+     178      175     1.69   {e}
+      28       17    39.29   {f}
+      21       20     4.76   {g}
+      48       48     0.00   {h}
+     100       62    38.00   {i}
+       2        1    50.00   {j}
+       9        7    22.22   {k}
+      65       52    20.00   {l}
+      53       49     7.55   {m}
+     106      102     3.77   {n}
+     120      119     0.83   {o}
+      44       40     9.09   {p}
+       2        2     0.00   {q}
+     112      108     3.57   {r}
+      88       86     2.27   {s}
+     124       96    22.58   {t}
+      53       53     0.00   {u}
+      15       14     6.67   {v}
+      14       14     0.00   {w}
+       2        2     0.00   {x}
+      21       21     0.00   {y}
+       1        0   100.00   {»}
+       1        0   100.00   {¿}
+       1        0   100.00   {ï}

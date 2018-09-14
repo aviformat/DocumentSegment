@@ -1,0 +1,8 @@
+﻿flgMt* 3 ^m .mn Hw«j(«
+to be muled m segmtnt* c«mm4 b( wttmmtli^ Mc«t»g*f]r	Umrt S-D
+oriental me m parei>i to Ike inttioa of mettm GaMtaJfo tfct dUKtm ignores many wild—ir«hfr segments iki ranll boa Mt-itdMNtuit etamrfit* «f the k«m, should am tppctr in t CAD bmW (ncI as |Mop(» walluag If) loo, malm wrong wndw leas likely.
+4 Results
+4 1 RtrtJtU and E**h*tur*
+Figure 4 shows oo« image m • wpwtt and the co»r»spond>ng 2 D btw MgrnoiU 12}. The barrel distort ion visible m the intensity »m»®» it corrected before lh« lift* detector is mo.
+Results of the reconstruction of vertical edge* in ihtt indoor scene ere shown in Figure 5. The vertical edges are represented by small signs. Both top views are shown over a one meter spacing grid The left map represents actual measurements in the scene. The right map is the result of the reconstruction. The robot was moving up in the map. acquiring an image every meter. The last position of the robot is represented by a small dot at the bottom of the map.
+The comparison of the two maps shows that the accuracy of the reconstruction can approach the precision of an architectural floor plan |3{. In fact, in some instances, the
