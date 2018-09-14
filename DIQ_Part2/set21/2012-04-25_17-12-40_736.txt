@@ -1,0 +1,27 @@
+﻿Progress in Image Understanding at MIT
+W. E- L. Grimaon, B K. P, Horn, T Poggio and staff
+MIT A! Lab r*f»brt«ijtP MA 02fH
+ABSTRACT
+Our jrmfram m fm*fe Und* rtt*ndm# km: a prmmty fmm an wwi m atfecf wrifiiJiH, nnrui» tike prwikms t/nklwa,	nw|»iifm
+«/ eienal iW « mim^i /Wm #«
+upafcsa If* Aa*# afc* eaalaaaetf m# mrk th* e*mpmi*imn mi iht w •/ Im» kwri mmI	§»
+■wiiii, itow. r*l»r fraiaer #a	fftff
+r««li isi m U*mmf
+1	Introduction
+itnafr ri4>Tiiw<Mi| ranrel «| Ik MIT Al Uk fcaa connoted afett| ft range «f frotn. from low M ptwm* mg, mcI m atereo motion coioe aad i»it«rt aoalyaai tlroi|ii inter mrduste augn of niffrttm af vim*! «aaat«on> to fegfeer fcp*«J tub awefc aa object terofntt*** and iivi|ftUoo Tka report rammarmi our mam mm irromMiarau is tfceae M#m . M * usual mi (W «#• porta* w Mrr iRtmtH m^tii to other pubbcatioa* jhr more detmli
+2	Object Recognition
+ttecauae it ha* b^t one of our rnrtnt (iKtl (KNtii, m> hegin with our -mmi work ts objrct recognition In prooching the probifffl of r#fO|)ititii| ob/rU from bom? images of fluttwd scenes. «t have found it (Mvfstrtt to separate out «everal different Mp#fU of problem
+•	Selection* (»iven a lar^ a*t of im^ fealum from a cluttered scene, select (or group) subsets likely to bivr come from nn|i« obj«ft«t »*se • rank ordering to plarr the matt uiknt oof« first
+•	Indexing; (iivto oat of imi|t feature iub-irti,	« imtll set of object modtli from the library that are likely to match the data
+•	Matching: (iiven a data feature subset and an object model, determine if there ia a legal transformation that would carry the model into a poae in the image that ia consistent with the data, possibly by finding a matching between data and model feature*. It is often useful to separate this stage into two subproblems'
+- Hypothesis* possible solutions, using minimal model and image information,
+♦ Verier saadi fryytsheaei,	nawlr 4*t
+(UdbrWMtiMI
+We	"i»tr «*&«% usearSuf tlwaeate**
+2.1 giliftw tm4 All»atwa
+We ha«* argne<$ fee too* lane tlal robust and«Slm< w fnftutmna to tJhe aafcetaws lor gaaaoaag} juuhfr w are lewiial to puaetaraf $**«0mtmm *fm*mrn Earlier wmk aatag lawS ImI aoafyaas asai esqpeetaaeatal ataMbau by 14k Iff* feat sk«i«a iImm the rwaaplexitjt af sanaf a»» prune fret to MtugMlion as* dkamotenly rr4mi J if rent 4»i**t*an m |i»i»l»i ani (W tie falae prm •«*e/flaiie aegju*»e rate* toe aawfc asethoMia ate ^aa MKpsoweil ostfi ssiiN'iaiai 0m (uhmu&iilmwm+m tie awxlwlwiaa few wr»>iiwi>i[ia o tlMl ic psovmIm ftaiiftart* <wi tb* saawla aleavljy paorp'—j^yg tsagm Fae rmaaili rae^s aa salat at wilw* ate aAas rwainal Cnsb tkr rwm* ftawM af eatfaetwm atijiri waHbee aarwaarrtnewi* wl^eti NNfaifea tJbaa aoe amasl far aBwnaatalwwi aaMi ml^r artoe eSbwts aa iawviiig lie oaage iMsamanu t > ub. lain a4jrtt yara—wt^r i If aoe amfrfy easii to wr i)^ ewra to seyataie rejpoaa af aa snaasr fcltely to have rmie fraan a ai|lt	aarli l*aa itraigi at fr^tafuvni*
+are pfeaeeil aa tfew tail. Imla| to sunnier isd bof«efuth more ro^aat atfonUum
+Toawdi tkia ewd. Tiaww Syedo- Xlahmood haa re* really eom|4ete4 a PhD ilaw M that rx|»kt^ ih rota of raea sorh aa color and texture ii selerifi««i fur rerognitioii She ilo>a this by developing and impl*-(ii«*fit. tag a computational model of viaaal attention, ahirlt servea as a general purpose selection mechanism itt a recognition system
+The approach supports two modea of attentional In*, havior, namely tUrtrUd attention and modes. The attracted attention mode of behavi<w i« spontaneous and Is commonly exhibited by an tinhi^ii observer (i e., with no a priori intentions) when noiu» object or some aapect of the scene attracts his/her attention. while the latter is a more deliberate beltattf'r exhibited by an observer looking at a scene with a prinn goals (such aa the task of recognising an object, say) and hence paying attention to only those objects/aspect* >>f a scene that are relevant to the goal.
+Briefly, the model suggests that the scene represent»*«I by the image be processed by a set of interacting featur**
+49

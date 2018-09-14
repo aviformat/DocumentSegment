@@ -1,0 +1,1008 @@
+-----------------------------------------
+    4362   Characters
+    3124   Errors
+   28.38%  Accuracy
+
+       2   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.05%  Characters Marked
+   28.73%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       2       13        0       15   Marked
+    1344     1738       27     3109   Unmarked
+    1346     1751       27     3124   Total
+
+   Count   Missed   %Right
+     699      177    74.68   ASCII Spacing Characters
+      98       85    13.27   ASCII Special Symbols
+      19       15    21.05   ASCII Digits
+      83       47    43.37   ASCII Uppercase Letters
+    3451     2764    19.91   ASCII Lowercase Letters
+       3        3     0.00   Latin1 Control Codes
+       5        3    40.00   Latin1 Special Symbols
+       4        3    25.00   Latin1 Lowercase Letters
+    4362     3097    29.00   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      23        0   {such hypotheses, usi...}-{}
+      20        0   {cient solutions to t}-{}
+      19        0   {analysis and experi}-{}
+      19        0   {are also significan}-{m*<\n>Or}
+      18        0   {in}-{m}
+      17        0   {behavior exhibite}-{4*%}
+      17        0   {s of the problem:}-{k*}
+      14        0   {acting feature}-{.<\n>m}
+      14        0   {an}-{m}
+      14        0   {ne represented}-{**<\n>kf}
+      14        0   {recognizing ob}-{ak}
+      13        0   {Briefly, the }-{}
+      13        0   {have come fro}-{>--<\n>tr'/}
+      13        0   {ions) when so}-{m}
+      12       12   {ay-attention}-{ot *Hr*u~m}
+      12        0   {a secondary }-{â<82>¬ t*f&*4<f}
+      12        0   {dramatically}-{f+4*r*4 4}
+      12        0   {hat would ca}-{m}
+      12        0   {is}-{m}
+      12        0   {nstraints on}-{mMf***** '*>}
+      12        0   {on navigatio}-{ft/'** e}
+      12        0   {standing has}-{*U*4t*f turn}
+      12        0   {s}-{*}
+      11        0   { by an obse}-{**}
+      11        0   { is spontan}-{Mmm}
+      11        0   {alysis, thr}-{}
+      11        0   {b Cambridge}-{f*^}
+      11        0   {gued for so}-{A-}
+      11        0   {ination and}-{Mv** *rei}
+      11        0   {integration}-{**Uff*fl41$}
+      10        0   {an object }-{m<\n>}
+      10        0   {by finding}-{tw6m%m}
+      10        0   {cent selec}-{i*â<82>¬}
+      10        0   {cognition.}-{*t/t^*Mm,}
+      10        0   {ecognition}-{**%mmm m}
+      10        0   {hopefully }-{mA<\n>}
+      10        0   {of}-{<4}
+      10        0   {rocessing,}-{i'/"**'}
+      10        0   {scene with}-{*4khm*4}
+      10        0   {scene}-{*****}
+      10        0   {selection }-{}
+       9        0   {(or group}-{}
+       9        0   {2.1 Selec}-{*}
+       9        0   {advantage}-{'4}
+       9        0   {attention}-{r4Umi**m}
+       9        0   {cluttered}-{******}
+       9        0   {continued}-{ffmlm&A}
+       9        0   {data and }-{m*>4*i 1*}
+       9        0   {explores }-{}
+       9        0   {features }-{(*M#f** -}
+       9        0   {hat}-{kM}
+       9        0   {on issues}-{m*m**}
+       9        0   {or recogn}-{tjp&VA}
+       9        0   {our recen}-{}
+       9        0   {selection}-{**4**%*m}
+       9        0   {studies [}-{7}
+       9        0   {the data.}-{4mm}
+       9        0   {will desc}-{4***}
+       9        0   {work, usi}-{}
+       8        0   { surface}-{U*4}
+       8        0   {Poggio a}-{*}
+       8        0   {a priori}-{kf}
+       8        0   {an objec}-{***** m}
+       8        0   {anding r}-{}
+       8        0   {atching:}-{mr%*mt;}
+       8        0   {attentio}-{mvmrm r}
+       8        0   {a}-{*}
+       8        0   {cations }-{*Mmm<\n>}
+       8        0   {circuits}-{nr*<\n>*mrU}
+       8        0   {details.}-{4nmk}
+       8        0   {duced if}-{*<\n>**rn}
+       8        0   {e delibe}-{m}
+       8        0   {egration}-{ffl*4j&e}
+       8        0   {h good s}-{}
+       8        0   {h}-{k}
+       8        0   {ing at a}-{Â»%mÂ»Â«}
+       8        0   {odel fea}-{><\n>}
+       8        0   {of recog}-{WMm}
+       8        0   {of these}-{*****<\n>W+}
+       8        0   {ositive}-{m**,<\n>u+*}
+       8        0   {plishmen}-{bn*> A}
+       8        0   {possible}-{mlmmm*}
+       8        0   {possibly}-{Wf}
+       8        0   {readers }-{}
+       8        0   {recently}-{A}
+       8        0   {relevant}-{fj ttM}
+       8        0   {rovided,}-{*wt4*4}
+       8        0   {saliency}-{*4k***p}
+       8        0   {t algori}-{km}
+       8        0   {tention,}-{*MmÂ»}
+       8        0   {transfor}-{Umd*** }
+       8        0   {ubsets l}-{-p; Uk*}
+       8        0   {we begin}-{**<\n>**%r*}
+       8        0   {we refer}-{t*Ui}
+       7        0   { visual}-{t*?*}
+       7        0   {Grimson}-{0}
+       7        0   {a legal}-{â<80>¢}
+       7        0   {a scene}-{*****}
+       7        0   {analog }-{}
+       7        0   {and eff}-{}
+       7        0   {attract}-{mumx}
+       7        0   {avigati}-{mrnpu}
+       7        0   {a}-{m}
+       7        0   {behavio}-{*0*}
+       7        0   {between}-{4m* *m4}
+       7        0   {e subse}-{n}
+       7        0   {ecially}-{"t*Up}
+       7        0   {ements,}-{*******}
+       7        0   {ents of}-{* m*M*}
+       7        0   {es this}-{pm%}
+       7        0   {etailed}-{*}
+       7        0   {has con}-{km<\n>rmum}
+       7        0   {leading}-{V*}
+       7        0   {likely }-{}
+       7        0   {ntional}-{mmmd h^}
+       7        0   {object,}-{'hy*\.}
+       7        0   {observe}-{4k**n+}
+       7        0   {ocessed}-{<**m*4}
+       7        0   {ocusing}-{M}
+       7        0   {on.<\n>One}-{}
+       7        0   {our wor}-{nm}
+       7        0   {racting}-{ *4}
+       7        0   {recogni}-{w/#*}
+       7        0   {regions}-{f+p*jm}
+       7        0   {roaches}-{f<A*k*%}
+       7        0   {se cues}-{<\n>***%}
+       7        0   {stages.}-{#}
+       7        0   {system.}-{*}
+       7        0   {texture}-{i^Mm*}
+       7        0   {unbiase}-{orlkomr}
+       7        0   {xhibite}-{&Hkmr}
+       6        0   { 02139}-{}
+       6        0   { requi}-{+*pm}
+       6        0   { shown}-{m}
+       6        0   { work }-{*"*}
+       6        0   {27], h}-{km if}
+       6        0   {Attent}-{}
+       6        0   {B. K. }-{}
+       6        0   {Ph.D. }-{}
+       6        0   {Unders}-{I*}
+       6        0   {a-Mahm}-{}
+       6        0   {and}-{4*4}
+       6        0   {and}-{m4}
+       6        0   {are of}-{}
+       6        0   {areas.}-{m*m}
+       6        0   {areas.}-{w}
+       6        0   {as}-{m}
+       6        0   {ation.}-{}
+       6        0   {brary }-{}
+       6        0   {cues,}-{*m*.*t}
+       6        0   {develo}-{m*}
+       6        0   {easure}-{*-mw+}
+       6        0   {ecogni}-{mp}
+       6        0   {ediate}-{, V-}
+       6        0   {e}-{*}
+       6        0   {focal }-{}
+       6        0   {formal}-{'^A*}
+       6        0   {he rol}-{'A}
+       6        0   {he tas}-{}
+       6        0   {hesize}-{mAfa}
+       6        0   {hich r}-{ Â»<\n>t}
+       6        0   {higher}-{b*0#t}
+       6        0   {his}-{km}
+       6        0   {noisy}-{wmp<\n>"A}
+       6        0   {o have}-{m*}
+       6        0   {object}-{'ApH}
+       6        0   {object}-{*kpx\}
+       6        0   {of}-{*4}
+       6        0   {plexit}-{jAi'Mk}
+       6        0   {s such}-{k<\n>m}
+       6        0   {s that}-{kM}
+       6        0   {salien}-{mfrw}
+       6        0   {search}-{}
+       6        0   {select}-{**Â¥*\}
+       6        0   {select}-{mb*<\n>Â«}
+       6        0   {stages}-{\}
+       6        0   {stereo}-{*$1**}
+       6        0   {subset}-{nM}
+       6        0   {sugges}-{}
+       6        0   {tained}-{Um'4}
+       6        0   {useful}-{m*M}
+       6        0   {using }-{mm}
+       6        0   {utatio}-{*l*Ue}
+       6        0   {visual}-{Hmd}
+       6        0   {visual}-{VPMtsi}
+       6        0   {visual}-{wm*d}
+       6        0   {â<80>¢ In}-{* Â§m}
+       6        0   {â<80>¢}-{*}
+       5        0   { acco}-{f}
+       5        0   { such}-{m*%}
+       5        0   {(such}-{t4m*}
+       5        0   {Earli}-{tmTU}
+       5        0   {Given}-{Oh**}
+       5        0   {Given}-{tMK}
+       5        0   {Image}-{J" K}
+       5        0   {She d}-{4**4}
+       5        0   {a ran}-{tm}
+       5        0   {acted}-{**ui}
+       5        0   {and h}-{.<\n>k}
+       5        0   {arate}-{mm*}
+       5        0   {as ob}-{rdr}
+       5        0   {aspec}-{wf}
+       5        0   {aspec}-{}
+       5        0   {ation}-{Mnm}
+       5        0   {ation}-{mmm}
+       5        0   {aying}-{mpm*}
+       5        0   {a}-{}
+       5        0   {behav}-{krm}
+       5        0   {by th}-{ik}
+       5        0   {cause}-{+me*}
+       5        0   {cogni}-{*s,pu}
+       5        0   {cogni}-{f/jpm}
+       5        0   {color}-{f*Urt}
+       5        0   {color}-{tdm}
+       5        0   {ct or}-{m<\n><*}
+       5        0   {diffe}-{}
+       5        0   {early}-{*4}
+       5        0   {ed wi}-{stf}
+       5        0   {ental}-{A}
+       5        0   {exing}-{tsrof}
+       5        0   {f the}-{l*}
+       5        0   {false}-{him*}
+       5        0   {featu}-{tmo}
+       5        0   {found}-{><â<80>¢}
+       5        0   {goal.}-{f/^}
+       5        0   {goals}-{m}
+       5        0   {hat r}-{}
+       5        0   {image}-{m&rtt}
+       5        0   {image}-{r^}
+       5        0   {imple}-{or-}
+       5        0   {in a }-{r}
+       5        0   {infor}-{<4<\n>}
+       5        0   {infor}-{m}
+       5        0   {ingen}-{m#M }
+       5        0   {ints,}-{mU}
+       5        0   {ions,}-{}
+       5        0   {izing}-{ m *}
+       5        0   {kely }-{f<\n>'}
+       5        0   {kely }-{}
+       5        0   {laced}-{t**+4}
+       5        0   {large}-{IMi?}
+       5        0   {level}-{M}
+       5        0   {level}-{t***i}
+       5        0   {many}-{10**/}
+       5        0   {n the}-{b*}
+       5        0   {ne si}-{}
+       5        0   {negat}-{}
+       5        0   {ning.}-{mmf}
+       5        0   {ntial}-{rrUd}
+       5        0   {o use}-{m+f?}
+       5        0   {objec}-{'Jkf*}
+       5        0   {objec}-{>A/#}
+       5        0   {objec}-{Kir*}
+       5        0   {od ha}-{w}
+       5        0   {odel,}-{r*4*i}
+       5        0   {odels}-{*4*\*}
+       5        0   {of in}-{?S*}
+       5        0   {often}-{mh**}
+       5        0   {om si}-{}
+       5        0   {on<\n>We}-{m*}
+       5        0   {on fo}-{k}
+       5        0   {oup) }-{j'}
+       5        0   {out s}-{*}
+       5        0   {point}-{*<\n>p}
+       5        0   {pose }-{m<\n>}
+       5        0   {range}-{tmrft}
+       5        0   {recen}-{m",mt}
+       5        0   {roble}-{MMn}
+       5        0   {roble}-{t<M*}
+       5        0   {scene}-{%**m}
+       5        0   {selec}-{**t**}
+       5        0   {selec}-{S**<\n>}
+       5        0   {singl}-{*m#}
+       5        0   {ssing}-{wty}
+       5        0   {stage}-{*mjt}
+       5        0   {tasks}-{*m*h}
+       5        0   {these}-{u***}
+       5        0   {tion }-{r<\n>ff}
+       5        0   {tion.}-{ kf}
+       5        0   {to si}-{}
+       5        0   {ugh i}-{}
+       5        0   {usual}-{wont}
+       4        0   { Lab}-{nk}
+       4        0   { and}-{oy^i}
+       4        0   { the}-{l}
+       4        0   {AI L}-{m<\n>ct}
+       4        0   {Sele}-{f}
+       4        0   {[46]}-{^}
+       4        0   {achi}-{mkwo}
+       4        0   {acts}-{U}
+       4        0   {ai}-{m}
+       4        0   {alse}-{*i**}
+       4        0   {also}-{*Ue}
+       4        0   {arat}-{mM}
+       4        0   {ards}-{4*}
+       4        0   {ar}-{m}
+       4        0   {as c}-{tri}
+       4        0   {bjec}-{ty'}
+       4        0   {bust}-{}
+       4        0   {cent}-{ior}
+       4        0   {data}-{4ms}
+       4        0   {dete}-{4*%*}
+       4        0   {de}-{rtt*}
+       4        0   {each}-{>*}
+       4        0   {ects}-{>*i*}
+       4        0   {emen}-{*}
+       4        0   {en c}-{}
+       4        0   {exa}-{+%'*}
+       4        0   {feat}-{b}
+       4        0   {firs}-{In}
+       4        0   {g bo}-{w}
+       4        0   {have}-{HM}
+       4        0   {have}-{Uw4}
+       4        0   {have}-{k**'}
+       4        0   {he l}-{}
+       4        0   {hms.}-{}
+       4        0   {ical}-{kd}
+       4        0   {illu}-{Mmrm}
+       4        0   {in I}-{m ft}
+       4        0   {ine }-{4 t}
+       4        0   {info}-{mh}
+       4        0   {ing:}-{m&}
+       4        0   {inte}-{j}
+       4        0   {ion }-{ef *}
+       4        0   {ion }-{mm}
+       4        0   {ion,}-{Aem}
+       4        0   {ion,}-{lpw?}
+       4        0   {issu}-{mm}
+       4        0   {izes}-{a**}
+       4        0   {latt}-{bru}
+       4        0   {lect}-{tf}
+       4        0   {less}-{i***}
+       4        0   {me f}-{}
+       4        0   {oach}-{'mrk}
+       4        0   {oble}-{*M*}
+       4        0   {obta}-{tA* }
+       4        0   {ocus}-{$}
+       4        0   {ocus}-{e**4}
+       4        0   {odel}-{m4*i}
+       4        0   {of}-{'A}
+       4        0   {ogra}-{epm}
+       4        0   {ones}-{m#%}
+       4        0   {on}-{m}
+       4        0   {ore }-{}
+       4        0   {orts}-{m%*}
+       4        0   {ovi}-{<**)}
+       4        0   {o}-{}
+       4        0   {proc}-{}
+       4        0   {requ}-{f}
+       4        0   {robu}-{fi}
+       4        0   {rts,}-{.}
+       4        0   {s of}-{r+4}
+       4        0   {s, w}-{}
+       4        0   {s,}-{*}
+       4        0   {s.}-{*}
+       4        0   {s/as}-{*fm}
+       4        0   {say)}-{t}
+       4        0   {sele}-{f}
+       4        0   {se}-{**}
+       4        0   {solu}-{wm}
+       4        0   {such}-{*mrk}
+       4        0   {such}-{*wk}
+       4        0   {such}-{mtk}
+       4        0   {such}-{m}
+       4        0   {that}-{<W}
+       4        0   {that}-{An}
+       4        0   {th}-{ik}
+       4        0   {ting}-{u*6}
+       4        0   {tion}-{}
+       4        0   {ur}-{m}
+       4        0   {utat}-{*i*}
+       4        0   {whil}-{mÂ£}
+       4        0   {with}-{mtfk}
+       3        3   {bee}-{*>~}
+       3        0   { is}-{t*}
+       3        0   { lo}-{c/}
+       3        0   { of}-{wt*}
+       3        0   { su}-{mr}
+       3        0   {(or}-{fa}
+       3        0   {, w}-{}
+       3        0   {.}-{}
+       3        0   {2; }-{<\n>t}
+       3        0   {MIT}-{Al}
+       3        0   {MIT}-{mrr}
+       3        0   {Sye}-{Wi}
+       3        0   {Tan}-{tm}
+       3        0   {a s}-{mt}
+       3        0   {a s}-{m}
+       3        0   {acc}-{me}
+       3        0   {age}-{#}
+       3        0   {age}-{$'}
+       3        0   {age}-{*tp}
+       3        0   {age}-{^r}
+       3        0   {age}-{ft}
+       3        0   {age}-{ujb}
+       3        0   {all}-{!}
+       3        0   {and}-{Sm}
+       3        0   {and}-{m*}
+       3        0   {and}-{mi}
+       3        0   {and}-{m}
+       3        0   {ara}-{m}
+       3        0   {are}-{^}
+       3        0   {are}-{m*}
+       3        0   {are}-{w*}
+       3        0   {as }-{}
+       3        0   {ask}-{}
+       3        0   {asu}-{-mm}
+       3        0   {at }-{}
+       3        0   {ate}-{M*}
+       3        0   {ati}-{#*}
+       3        0   {att}-{*H}
+       3        0   {att}-{Mn}
+       3        0   {clu}-{fSm}
+       3        0   {col}-{rrt}
+       3        0   {cts}-{tr*}
+       3        0   {del}-{4*i}
+       3        0   {ece}-{++*}
+       3        0   {ech}-{f}
+       3        0   {ect}-{pri}
+       3        0   {ely}-{*4i}
+       3        0   {ene}-{rot}
+       3        0   {eni}-{m}
+       3        0   {ent}-{4}
+       3        0   {ent}-{tm}
+       3        0   {es.}-{nm}
+       3        0   {ess}-{###}
+       3        0   {ess}-{^<\n>r}
+       3        0   {gle}-{}
+       3        0   {hat}-{*}
+       3        0   {hat}-{km}
+       3        0   {he}-{iki}
+       3        0   {his}-{bm}
+       3        0   {h}-{}
+       3        0   {ibe}-{6+}
+       3        0   {ich}-{rk}
+       3        0   {imp}-{}
+       3        0   {ing}-{mtt}
+       3        0   {ing}-{}
+       3        0   {ini}-{<\n>Â«}
+       3        0   {int}-{m}
+       3        0   {inu}-{}
+       3        0   {inv}-{m*}
+       3        0   {ion}-{*m}
+       3        0   {ion}-{km}
+       3        0   {ion}-{m}
+       3        0   {ion}-{p*4}
+       3        0   {i}-{m}
+       3        0   {i}-{}
+       3        0   {lac}-{&r}
+       3        0   {lea}-{t*s}
+       3        0   {loo}-{}
+       3        0   {ng)}-{m}
+       3        0   {nis}-{rt}
+       3        0   {nly}-{dp}
+       3        0   {nsi}-{rm}
+       3        0   {nti}-{wu}
+       3        0   {obj}-{*rk}
+       3        0   {ode}-{*A*}
+       3        0   {on }-{}
+       3        0   {on:}-{**}
+       3        0   {ona}-{mt}
+       3        0   {one}-{-tm}
+       3        0   {ost}-{a*}
+       3        0   {oth}-{<*k}
+       3        0   {ous}-{mm}
+       3        0   {o}-{m}
+       3        0   {ple}-{}
+       3        0   {ply}-{}
+       3        0   {pl}-{$rm}
+       3        0   {qui}-{tfo}
+       3        0   {rec}-{4}
+       3        0   {rep}-{pm}
+       3        0   {rs.}-{it}
+       3        0   {sce}-{k}
+       3        0   {set}-{**x}
+       3        0   {sis}-{mtm}
+       3        0   {sis}-{m}
+       3        0   {sta}-{H*}
+       3        0   {tex}-{Ui}
+       3        0   {the}-{'k*}
+       3        0   {the}-{* V}
+       3        0   {the}-{Hr}
+       3        0   {the}-{ik*}
+       3        0   {to}-{f/>}
+       3        0   {ts,}-{Hf}
+       3        0   {t}-{}
+       3        0   {ubl}-{M}
+       3        0   {uch}-{mk}
+       3        0   {use}-{&}
+       3        0   {use}-{ef}
+       3        0   {vel}-{**%}
+       3        0   {ven}-{t:-}
+       3        0   {ver}-{m*}
+       3        0   {ves}-{*i}
+       3        0   {vie}-{y^ }
+       3        0   {wan}-{}
+       3        0   {xtu}-{niv}
+       2        0   { a}-{s}
+       2        0   { c}-{}
+       2        0   { }-{}
+       2        0   {,}-{*}
+       2        0   {,}-{}
+       2        0   {. }-{<\n>}
+       2        0   {.}-{,}
+       2        0   {3;}-{\<}
+       2        0   {49}-{mm}
+       2        0   {As}-{M}
+       2        0   {E.}-{K,}
+       2        0   {Hy}-{}
+       2        0   {It}-{U}
+       2        0   {I}-{ht}
+       2        0   {SI}-{$f}
+       2        0   {a }-{m}
+       2        0   {a,}-{u.}
+       2        0   {ac}-{mt}
+       2        0   {ag}-{k}
+       2        0   {al}-{>d}
+       2        0   {al}-{I}
+       2        0   {al}-{d}
+       2        0   {al}-{n$}
+       2        0   {an}-{mo}
+       2        0   {an}-{no}
+       2        0   {ap}-{^ }
+       2        0   {as}-{**}
+       2        0   {at}-{MM}
+       2        0   {at}-{}
+       2        0   {a}-{o}
+       2        0   {a}-{Â»}
+       2        0   {be}-{W}
+       2        0   {by}-{/}
+       2        0   {by}-{m4}
+       2        0   {by}-{â<96>}
+       2        0   {ch}-{%}
+       2        0   {ch}-{k*}
+       2        0   {co}-{**}
+       2        0   {co}-{m}
+       2        0   {co}-{oi}
+       2        0   {co}-{rr}
+       2        0   {co}-{w}
+       2        0   {co}-{}
+       2        0   {cu}-{m}
+       2        0   {cu}-{tn}
+       2        0   {c}-{r}
+       2        0   {c}-{t}
+       2        0   {d,}-{4<}
+       2        0   {da}-{I}
+       2        0   {de}-{4*}
+       2        0   {de}-{fr}
+       2        0   {ds}-{4*}
+       2        0   {e }-{4<\n>}
+       2        0   {e,}-{*}
+       2        0   {ec}-{r*}
+       2        0   {ed}-{*4}
+       2        0   {ed}-{tM}
+       2        0   {ee}-{}
+       2        0   {en}-{mt}
+       2        0   {en}-{}
+       2        0   {er}-{/}
+       2        0   {es}-{'*}
+       2        0   {es}-{+%}
+       2        0   {es}-{+*}
+       2        0   {es}-{t*}
+       2        0   {es}-{x}
+       2        0   {ex}-{'m}
+       2        0   {ex}-{*%}
+       2        0   {e}-{f}
+       2        0   {e}-{}
+       2        0   {ff}-{H}
+       2        0   {fo}-{}
+       2        0   {gn}-{*%}
+       2        0   {g}-{}
+       2        0   {he}-{W}
+       2        0   {he}-{b*}
+       2        0   {he}-{im}
+       2        0   {he}-{k'}
+       2        0   {he}-{k*}
+       2        0   {in}-{a}
+       2        0   {io}-{$*}
+       2        0   {is}-{Â»}
+       2        0   {it}-{4}
+       2        0   {i}-{*k}
+       2        0   {le}-{k}
+       2        0   {lo}-{h}
+       2        0   {lo}-{}
+       2        0   {ly}-{e}
+       2        0   {mo}-{r}
+       2        0   {n.}-{m}
+       2        0   {na}-{%*}
+       2        0   {nc}-{mr}
+       2        0   {nd}-{4}
+       2        0   {ng}-{*%}
+       2        0   {ng}-{o%}
+       2        0   {ng}-{}
+       2        0   {nl}-{mf}
+       2        0   {no}-{rm}
+       2        0   {nt}-{M}
+       2        0   {n}-{*}
+       2        0   {n}-{im}
+       2        0   {o,}-{.}
+       2        0   {ob}-{*A}
+       2        0   {ob}-{e}
+       2        0   {od}-{*A}
+       2        0   {of}-{*}
+       2        0   {of}-{1,}
+       2        0   {of}-{<j}
+       2        0   {of}-{d}
+       2        0   {om}-{..}
+       2        0   {on}-{e*}
+       2        0   {ot}-{e}
+       2        0   {ou}-{*m}
+       2        0   {o}-{*}
+       2        0   {o}-{e}
+       2        0   {o}-{t/}
+       2        0   {o}-{x*}
+       2        0   {pu}-{}
+       2        0   {ra}-{1}
+       2        0   {ri}-{ft}
+       2        0   {ri}-{n}
+       2        0   {ry}-{j}
+       2        0   {r}-{f}
+       2        0   {r}-{t}
+       2        0   {s }-{}
+       2        0   {s:}-{}
+       2        0   {sc}-{m}
+       2        0   {se}-{*}
+       2        0   {se}-{t*}
+       2        0   {se}-{tr}
+       2        0   {so}-{*}
+       2        0   {st}-{m}
+       2        0   {su}-{*m}
+       2        0   {su}-{to}
+       2        0   {s}-{t}
+       2        0   {te}-{}
+       2        0   {th}-{lk}
+       2        0   {th}-{m}
+       2        0   {th}-{r}
+       2        0   {ti}-{}
+       2        0   {t}-{ef}
+       2        0   {un}-{m}
+       2        0   {ur}-{.f}
+       2        0   {ur}-{f}
+       2        0   {ur}-{m*}
+       2        0   {ve}-{*m}
+       2        0   {w}-{m}
+       2        0   {}-{'X}
+       2        0   {}-{* }
+       1        0   {(}-{:}
+       1        0   {,}-{.}
+       1        0   {,}-{k}
+       1        0   {-}-{*}
+       1        0   {A}-{}
+       1        0   {B}-{H}
+       1        0   {F}-{f}
+       1        0   {G}-{}
+       1        0   {I}-{i}
+       1        0   {U}-{V}
+       1        0   {a}-{&}
+       1        0   {a}-{M}
+       1        0   {a}-{U}
+       1        0   {a}-{n}
+       1        0   {c}-{e}
+       1        0   {d}-{*}
+       1        0   {d}-{4}
+       1        0   {d}-{A}
+       1        0   {d}-{o}
+       1        0   {e}-{+}
+       1        0   {e}-{p}
+       1        0   {e}-{u}
+       1        0   {f}-{(}
+       1        0   {f}-{1}
+       1        0   {f}-{i}
+       1        0   {g}-{%}
+       1        0   {h}-{+}
+       1        0   {h}-{t}
+       1        0   {l}-{S}
+       1        0   {l}-{\}
+       1        0   {l}-{i}
+       1        0   {l}-{}
+       1        0   {n}-{m}
+       1        0   {n}-{}
+       1        0   {o}-{A}
+       1        0   {o}-{a}
+       1        0   {o}-{t}
+       1        0   {p}-{y}
+       1        0   {p}-{}
+       1        0   {r}-{4}
+       1        0   {r}-{i}
+       1        0   {s}-{%}
+       1        0   {s}-{m}
+       1        0   {s}-{r}
+       1        0   {s}-{}
+       1        0   {u}-{n}
+       1        0   {u}-{}
+       1        0   {v}-{M}
+       1        0   {y}-{p}
+       1        0   {}-{<\n>}
+       1        0   {}-{%}
+       1        0   {}-{*}
+       1        0   {}-{r}
+       1        0   {}-{t}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+      12        0   {s}-{*}
+       8        0   {a}-{*}
+       8        0   {h}-{k}
+       7        0   {a}-{m}
+       6        0   {e}-{*}
+       3        0   {i}-{m}
+       3        0   {o}-{m}
+       2        0   {a}-{o}
+       2        0   {c}-{r}
+       2        0   {c}-{t}
+       2        0   {e}-{f}
+       2        0   {n}-{*}
+       2        0   {o}-{*}
+       2        0   {o}-{e}
+       2        0   {r}-{f}
+       2        0   {r}-{t}
+       2        0   {s}-{t}
+       2        0   {w}-{m}
+       1        0   {B}-{H}
+       1        0   {F}-{f}
+       1        0   {I}-{i}
+       1        0   {U}-{V}
+       1        0   {a}-{&}
+       1        0   {a}-{M}
+       1        0   {a}-{U}
+       1        0   {a}-{n}
+       1        0   {c}-{e}
+       1        0   {d}-{*}
+       1        0   {d}-{4}
+       1        0   {d}-{A}
+       1        0   {d}-{o}
+       1        0   {e}-{+}
+       1        0   {e}-{p}
+       1        0   {e}-{u}
+       1        0   {f}-{(}
+       1        0   {f}-{1}
+       1        0   {f}-{i}
+       1        0   {g}-{%}
+       1        0   {h}-{+}
+       1        0   {h}-{t}
+       1        0   {l}-{S}
+       1        0   {l}-{\}
+       1        0   {l}-{i}
+       1        0   {n}-{m}
+       1        0   {o}-{A}
+       1        0   {o}-{a}
+       1        0   {o}-{t}
+       1        0   {p}-{y}
+       1        0   {r}-{4}
+       1        0   {r}-{i}
+       1        0   {s}-{%}
+       1        0   {s}-{m}
+       1        0   {s}-{r}
+       1        0   {u}-{n}
+       1        0   {v}-{M}
+       1        0   {y}-{p}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+       2        0   {I}-{ht}
+       2        0   {a}-{Â»}
+       2        0   {i}-{*k}
+       2        0   {n}-{im}
+       2        0   {o}-{t/}
+       2        0   {o}-{x*}
+       2        0   {t}-{ef}
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+      18        0   {in}-{m}
+      14        0   {an}-{m}
+      12        0   {is}-{m}
+       6        0   {as}-{m}
+       4        0   {ai}-{m}
+       4        0   {ar}-{m}
+       4        0   {on}-{m}
+       4        0   {ur}-{m}
+       2        0   {As}-{M}
+       2        0   {It}-{U}
+       2        0   {ag}-{k}
+       2        0   {al}-{I}
+       2        0   {al}-{d}
+       2        0   {be}-{W}
+       2        0   {by}-{/}
+       2        0   {ch}-{%}
+       2        0   {co}-{m}
+       2        0   {co}-{w}
+       2        0   {cu}-{m}
+       2        0   {da}-{I}
+       2        0   {er}-{/}
+       2        0   {es}-{x}
+       2        0   {ff}-{H}
+       2        0   {he}-{W}
+       2        0   {in}-{a}
+       2        0   {it}-{4}
+       2        0   {le}-{k}
+       2        0   {lo}-{h}
+       2        0   {ly}-{e}
+       2        0   {mo}-{r}
+       2        0   {nd}-{4}
+       2        0   {nt}-{M}
+       2        0   {ob}-{e}
+       2        0   {of}-{*}
+       2        0   {of}-{d}
+       2        0   {ot}-{e}
+       2        0   {ra}-{1}
+       2        0   {ri}-{n}
+       2        0   {ry}-{j}
+       2        0   {sc}-{m}
+       2        0   {se}-{*}
+       2        0   {so}-{*}
+       2        0   {st}-{m}
+       2        0   {th}-{m}
+       2        0   {th}-{r}
+       2        0   {un}-{m}
+       2        0   {ur}-{f}
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+      10        0   {of}-{<4}
+       6        0   {of}-{*4}
+       4        0   {of}-{'A}
+       4        0   {se}-{**}
+       4        0   {th}-{ik}
+       2        0   {49}-{mm}
+       2        0   {SI}-{$f}
+       2        0   {ac}-{mt}
+       2        0   {al}-{>d}
+       2        0   {al}-{n$}
+       2        0   {an}-{mo}
+       2        0   {an}-{no}
+       2        0   {ap}-{^ }
+       2        0   {as}-{**}
+       2        0   {at}-{MM}
+       2        0   {by}-{m4}
+       2        0   {by}-{â<96>}
+       2        0   {ch}-{k*}
+       2        0   {co}-{**}
+       2        0   {co}-{oi}
+       2        0   {co}-{rr}
+       2        0   {cu}-{tn}
+       2        0   {de}-{4*}
+       2        0   {de}-{fr}
+       2        0   {ds}-{4*}
+       2        0   {ec}-{r*}
+       2        0   {ed}-{*4}
+       2        0   {ed}-{tM}
+       2        0   {en}-{mt}
+       2        0   {es}-{'*}
+       2        0   {es}-{+%}
+       2        0   {es}-{+*}
+       2        0   {es}-{t*}
+       2        0   {ex}-{'m}
+       2        0   {ex}-{*%}
+       2        0   {gn}-{*%}
+       2        0   {he}-{b*}
+       2        0   {he}-{im}
+       2        0   {he}-{k'}
+       2        0   {he}-{k*}
+       2        0   {io}-{$*}
+       2        0   {is}-{Â»}
+       2        0   {na}-{%*}
+       2        0   {nc}-{mr}
+       2        0   {ng}-{*%}
+       2        0   {ng}-{o%}
+       2        0   {nl}-{mf}
+       2        0   {no}-{rm}
+       2        0   {ob}-{*A}
+       2        0   {od}-{*A}
+       2        0   {of}-{1,}
+       2        0   {of}-{<j}
+       2        0   {om}-{..}
+       2        0   {on}-{e*}
+       2        0   {ou}-{*m}
+       2        0   {ri}-{ft}
+       2        0   {se}-{t*}
+       2        0   {se}-{tr}
+       2        0   {su}-{*m}
+       2        0   {su}-{to}
+       2        0   {th}-{lk}
+       2        0   {ur}-{.f}
+       2        0   {ur}-{m*}
+       2        0   {ve}-{*m}
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+      21        0   {a}-{* | m | o | & | M | U | n}
+      17        0   {s}-{* | t | % | m | r}
+      11        0   {e}-{* | f | + | p | u}
+      10        0   {h}-{k | + | t}
+      10        0   {o}-{m | * | e | A | a | t}
+       6        0   {r}-{f | t | 4 | i}
+       5        0   {c}-{r | t | e}
+       4        0   {d}-{* | 4 | A | o}
+       3        0   {f}-{( | 1 | i}
+       3        0   {i}-{m}
+       3        0   {l}-{S | \ | i}
+       3        0   {n}-{* | m}
+       2        0   {w}-{m}
+       1        0   {B}-{H}
+       1        0   {F}-{f}
+       1        0   {I}-{i}
+       1        0   {U}-{V}
+       1        0   {g}-{%}
+       1        0   {p}-{y}
+       1        0   {u}-{n}
+       1        0   {v}-{M}
+       1        0   {y}-{p}
+
+   Count   Missed   %Right
+      20        2    90.00   {<\n>}
+     679      175    74.23   { }
+       4        4     0.00   {(}
+       4        4     0.00   {)}
+      38       32    15.79   {,}
+       4        3    25.00   {-}
+      34       30    11.76   {.}
+       3        1    66.67   {/}
+       1        1     0.00   {0}
+       4        2    50.00   {1}
+       6        4    33.33   {2}
+       2        2     0.00   {3}
+       2        2     0.00   {4}
+       1        1     0.00   {6}
+       1        1     0.00   {7}
+       2        2     0.00   {9}
+       5        5     0.00   {:}
+       2        2     0.00   {;}
+       7        4    42.86   {A}
+       4        3    25.00   {B}
+       2        1    50.00   {C}
+       1        1     0.00   {D}
+       2        2     0.00   {E}
+       1        1     0.00   {F}
+       4        4     0.00   {G}
+       2        1    50.00   {H}
+      14       10    28.57   {I}
+       1        1     0.00   {K}
+       4        2    50.00   {L}
+       6        3    50.00   {M}
+       3        1    66.67   {O}
+       4        2    50.00   {P}
+       2        0   100.00   {R}
+       6        5    16.67   {S}
+      11        3    72.73   {T}
+       3        2    33.33   {U}
+       2        0   100.00   {V}
+       4        1    75.00   {W}
+       2        2     0.00   {[}
+       2        2     0.00   {]}
+     278      271     2.52   {a}
+      54       52     3.70   {b}
+     134      129     3.73   {c}
+      98       75    23.47   {d}
+     453      354    21.85   {e}
+      81       60    25.93   {f}
+      87       83     4.60   {g}
+     118      110     6.78   {h}
+     252      215    14.68   {i}
+      14       10    28.57   {j}
+      12        7    41.67   {k}
+     127      124     2.36   {l}
+     101       22    78.22   {m}
+     267      229    14.23   {n}
+     303      231    23.76   {o}
+      67       29    56.72   {p}
+       3        3     0.00   {q}
+     210      122    41.90   {r}
+     256      252     1.56   {s}
+     325      194    40.31   {t}
+      91       88     3.30   {u}
+      36       33     8.33   {v}
+      27       19    29.63   {w}
+      13       12     7.69   {x}
+      40       36    10.00   {y}
+       4        4     0.00   {z}
+       3        3     0.00   {<80>}
+       3        3     0.00   {¢}
+       1        0   100.00   {»}
+       1        0   100.00   {¿}
+       3        3     0.00   {â}
+       1        0   100.00   {ï}

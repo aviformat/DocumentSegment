@@ -1,0 +1,31 @@
+﻿Segmentation via Manipulation
+Coaamnac I. Tstkm am tatca* IL Bnjcsy. Stmor Hkmtxr. IEEE
+Abstract *t Mmr Aa	at M««. ninanpi i
+Km rngmmmUmm mi dapHoNlM a#	laap al
+kiMm ofcjwt* vte vMm and maaspatatloa The saeM catiM h M m the pmpk niniiii at urtn aatf aioa naraL Thaaa tpvidw ara	IsaaeeeiMc H in
+Mi pas* m^Mm atiem V« w At h—i « nap* gaMnaers aai the MripvlMiv at the iecmm*dm tMfhaanaa af i» graphs. Tha mM Ii • mMmMic MhMi Tar lag MkMm. W« mtefratai a iWm fife , a annCM****- Mi facce	ami athar saneeey InpM mito ft febet anseli eea tai
+caaMhntei eiBja^inewts ift last cftMevgeoae aai artae feeswan? aa
+IW IIRVITV) *TI Wf|MV W| (MM MM IMm (tnM» (MMMMi
+Aa afcaSagfca cm li*»m mtwi Ift it mtar^ infta, w»»w rm anhotogiraJ Mm, ani catvif|i.
+i ferrmmcnor
+THE motivation far te paper i in otwrvftioa iM • kcm ronanmg m Hm w obym awn if it Mm cannot be ttgmcmrd onh bj	or Ik general toy a^
+nrnonnrt snaing ankod Vtsmi nfrrwafino may tt u»f Icki 10 accoranly wywi ssaaple olpnti Mi auacwttlap paag xaa. However, aaa yauii. Ik la act mAcnm tor random Inapt of uafcaown objects
+If no a prion kooaidp a available Ae viwa lyms canaot reliably distinguish betweca overiape earned ^ diftwa objects m the km and iwrrl^i cMtd by ft single self-occluding object. A flat ngsd object supported by aai totally orrhtdnag another meDer object any be recogataed aa a large box-shaped object. Sani»l)i, a An mri|d object supported n (fee raddle by a smaller object may be recog-sized at convex, while if k it supported n tbe edges by noft thn one object, it may be recognized at coacsvt.
+Therefore, machine vision alone (or any aoacontact mm icg method) ia not sufficient for segmentation and recognition Aa exception to this may be the caae when (be objects are pfeyaicatty separated so that the noacontact sensor cm measure das separation or one knows a priori a great deal about the objects (their geometry, material, etc.).
+ItanMinpi received March 24, lfg9, revised January I. 1990 This work waft supported by the U S Postal Service BOA under Contract 1042304?-H-0001/M-019S. by the U.S. Air Pores under Oram APOSR P49620-I5-K-0018; by the U.S. Army under Oram DAAG29 *4 K4061. by the National Science Foundation under Grams CIC/DCRI2-I9196 Ao2. WTO-14199. DMCI5-17315; by NASA under Oram NA05-I045; by the ONR under Orwt SB-3592Mh by the NiH aadtr OrsM NS-10939-11 (m part of tha Cerebro Vascular Jfeaearch Center) and I-R01-NS-23636-0I. by ARPA under Grant N00144S-K-0632. by NATO under Oraat 0(04/15. and by the DEC Corporation. IBM. and tha LORD Corporation,
+C. I Tsikas was with tha Department of Computer and Information Science, University of Pennsylvania. Philadelphia, PA 19104-6399 He is now with the Siemens Corporate Research Laboratories, Princeton. NJ 08540.
+R. K. Bajcsy is with the Department of Computer and Information Science. University of Pennsylvania. Philadelphia, PA 19104-6389.
+IEEE Log Number 9142996.
+Tin iniamai approach in tn wparai Aa narnnai sanaory nAmnn (mgr. anaaaay. an.) reganAen of kcm comptaur? Una* baaed aa At aanoaa ai ngxacaca-im, m aaarpan Ac km aai fecagaac Ac djsn. tie pnAian will Ala approach li Aai tafecMgy decreases wine scaaea baccnn awe oaaplg* aai wftea o priori ananfcms an remuwed
+Oar sfgMnsb CiiMA laannioi tryingnianl aAn ever annann^i meat smm mnflcaiy. we mc Ac tMngn-Inar n nnba Ac scam MMpfen iar Ac «iaw» iptei. Oar parad^as w aMioffan ftp Inaing Ac bnai fcrip Ac eye «ben fMarpraneton d maai nAsangMa n n^Kas. or wlnn Aa mms to atMafcy caa^pln.
+On vfMom a tsersrr«< baeMM aiM setaagtMMn d ilptti Hana Iqm Dm a an noacuaaacs sanaur anaafc-mmok otfy Ac n^ teynr d At laap n eaAAe n a^r p*n ian aai Aa ebyacn sm aaanaai Anai Ac aocac tan n a nan. Is fMerak Aa syaan nast ansae aai nanpalan asorc Am ncs br nay naian mom
+The syanai a ianma>a Iskmm Ac vans syanai nay ncpsen a snaapataicry anna a needsc an nserprenooa saAigaay. Ift faibcc vanal caasfieaay, or to aai raanve m object tana Ac scom.. Tin aaaapobaary action man be noninrad by Aa aoncnanct soanc (vnion tynesn) sa wdl sa Aa ceanct saasees (bm.lo^a) A a closed loop.
+A.	Amompaom
+Oar saaaapaoaii arc:
+1)	Tbe sccm a teachable by At aaaipalaiar and sccnaftihi to Aft seaaors. t,« , Aa eaAa tcem a vaAk, aMxwgb occhnatM any occur
+2)	Ths sccm a dsconpoeaUs, « coanMs of coavea objects feekt togathtr by Ae fena ot gravity and (hctns
+3)	Ths objtcts nay or nay not be rigid, Tbetr sac and weight a such thn they are mMipulshh with a suitable and effsctor. The complexity of the sccm It bounded. U, typical scenes are three to six layers deep aad may contain 15 lo 30 objects
+4)	There it a well defined goal stale thn is detectable by the available sensors The goal may be an empty scene or an organised/ordeted scene.
+B.	Domain
+The domain is the class of irregular parcels and pieces (TPP) found in a poet office environment. The class consists of rigid and nonrigid flats, boxes, tubes, and rolls. The objects have different weights, sizes, colors, visual surface textures (address labels, stamps, and other markings), varying porocity, coefficients of friction, and rigidity. Because many of these objects are not rigid, their true geometric shape cannot be measured; it is rather a function of where the
+i042-296x/91/0600-0306s0100 © 1991 ieee

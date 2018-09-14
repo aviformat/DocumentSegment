@@ -1,0 +1,21 @@
+﻿Progress in Image Understanding at MIT
+W. E. L. Grimson, B. K. P. Horn, T. Poggio and staff
+MIT AI Lab Cambridge MA 02139
+ABSTRACT
+Our program in Image Understanding has maintained a primary focus on issues in object recognition, especially the problems of selection, indexing, saliency computation and integration of visual cues, and a secondary focus on navigation. We have also continued our work on the. computation and the use of low level visual cues such as motion, stereo, color and texture, on analog VLSI circuits and on learning.
+1	Introduction
+Image Understanding research at the MIT AI Lab has continued along a range of fronts, from low level processing, such as stereo, motion, color and texture analysis, through intermediate stages of integration of visual information. to higher level tasks such as object recognition and navigation. This report summarizes our main recent accomplishments in these areas. As is usual in these reports, we refer interested readers to other publications for more details.
+2	Object Recognition
+Because it has been one of our central focal points, we begin with our recent work in object recognition. In approaching the problem of recognizing objects from noisy images of cluttered scenes, we have found it convenient to separate out several different aspects of the problem:
+•	Selection: (iiven a large set of image features from a cluttered scene, select (or group) subsets likely to have come from single objects, and use a rank ordering to place the most salient ones first.
+•	Indexing: Given one of these image feature subsets, select a small set of object models from the library that are likely to match the data.
+•	Matching: (iiven a data feature subset and an object model, determine if there is a legal transformation that would carry the model into a pose in the image that is consistent with the data, possibly by finding a matching between data and model features. It is often useful to separate this stage into two subproblems:
+- Hypothesize possible solutions, using minimal model and image information.
+- Verify such hypotheses, using more detailed information.
+We will describe our recent work in each of these areas. 2.1 Selection and Attention
+We have argued for some time that robust and efficient solutions to the selection (or grouping) problem are essential to practical recognition systems. Earlier work, using both formal analysis and experimental studies ['22; 13; 27], has shown that the complexity of many approaches to recognition are dramatically reduced if decent selection is provided, and that the false positive/false negative rates for such methods are also significantly improved with good selection.
+One advantage of focusing on the issue of selection for recognition is that it provides constraints on the requirements of early processing stages. For example, cues such as color or texture are often considered from the viewpoint of extracting object surface measurements, which requires that one account for illumination and other scene effects in inverting the image measurements to obtain object parameters. If one simply wants to use these cues to separate regions of an image likely to have come from a single object, much less stringent requirements are placed on the task, leading to simpler and hopefully more robust algorithms.
+Towards this end, Tanveer Syeda-Mahmood has recently completed a Ph.D. thesis [46] that explores the role of cues such as color and texture in selection for recognition. She does this by developing and implementing a computational model of visual attention, which serves as a general purpose selection mechanism in a recognition system.
+The approach supports two modes of atteiitional behavior, namely attracted attention and pay-attention modes. The attracted attention mode of behavior is spontaneous and is commonly exhibited by an unbiased observer (i.e., with no a priori intentions) when some object or some aspect of the scene attracts his/her attention, while the latter is a more deliberate behavior exhibited by an observer looking at a scene with a prion goals (such as the task of recognizing an object, say) and hence paying attention to only those objects/aspects nf a scene that are relevant to the goal.
+Briefly, the model suggests that the scene represented by the image be processed by a set of interacting feature
+49

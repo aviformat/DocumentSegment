@@ -1,0 +1,195 @@
+-----------------------------------------
+    1773   Characters
+     226   Errors
+   87.25%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   87.25%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      64      159        3      226   Unmarked
+      64      159        3      226   Total
+
+   Count   Missed   %Right
+     251        4    98.41   ASCII Spacing Characters
+      64       13    79.69   ASCII Special Symbols
+     134       56    58.21   ASCII Digits
+     334      139    58.38   ASCII Uppercase Letters
+     987       11    98.89   ASCII Lowercase Letters
+       2        0   100.00   Latin1 Special Symbols
+       1        0   100.00   Latin1 Lowercase Letters
+    1773      223    87.42   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      15        0   {94708 TELEPHONE}-{mm<\n>telethons}
+      13        0   {SAN FRANCISCO}-{hamoico}
+      12        0   {PROFESSIONAL}-{woinnmi}
+      10        0   { Institute}-{}
+      10        0   {CALIFORNIA}-{caujoskm}
+      10        0   {CALIFORNIA}-{cautokwia}
+      10        0   {FRANCISCO,}-{mmmcbco.}
+       9        0   {INCLUDING}-{Mcivtwc}
+       8        0   {2650 SAN}-{mm<\n>sam}
+       8        0   {389-6800}-{m MCE}
+       8        0   {989-6800}-{> mt mm}
+       7        0   {46-6752}-{M}
+       7        0   {OFFICES}-{ovncn}
+       7        0   {STREET,}-{steÂ£et}
+       6        0   {ERSHIP}-{tMior}
+       6        0   {RATION}-{tttfMM}
+       5        0   {95814}-{Â»Â«H}
+       5        0   {SUITE}-{suite}
+       5        0   {SUITE}-{sum}
+       4        0   {4000}-{OM}
+       4        0   {9694}-{MM}
+       4        0   {PART}-{MVf}
+       3        0   {&}-{fir}
+       3        0   {650}-{me}
+       3        0   {770}-{m}
+       3        0   {800}-{MO}
+       3        0   {916}-{Â«U}
+       3        0   {GH}-{CK }
+       3        0   {LAW}-{law}
+       3        0   {ORP}-{W}
+       2        0   {,}-{.}
+       2        0   {,}-{}
+       2        0   {5)}-{31}
+       2        0   {OF}-{or}
+       2        0   {SA}-{M}
+       2        0   {TR}-{H}
+       1        0   {)}-{}
+       1        0   {5}-{9}
+       1        0   {:}-{i}
+       1        0   {A}-{a}
+       1        0   {D}-{O}
+       1        0   {E}-{*}
+       1        0   {F}-{P}
+       1        0   {L}-{1}
+       1        0   {M}-{U}
+       1        0   {P}-{T}
+       1        0   {R}-{1}
+       1        0   {R}-{B}
+       1        0   {R}-{I}
+       1        0   {R}-{l}
+       1        0   {o}-{O}
+       1        0   {s}-{a}
+       1        0   {w}-{v}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       1        0   {5}-{9}
+       1        0   {A}-{a}
+       1        0   {D}-{O}
+       1        0   {E}-{*}
+       1        0   {F}-{P}
+       1        0   {L}-{1}
+       1        0   {M}-{U}
+       1        0   {P}-{T}
+       1        0   {R}-{1}
+       1        0   {R}-{B}
+       1        0   {R}-{I}
+       1        0   {R}-{l}
+       1        0   {o}-{O}
+       1        0   {s}-{a}
+       1        0   {w}-{v}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+       2        0   {SA}-{M}
+       2        0   {TR}-{H}
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+       2        0   {OF}-{or}
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       4        0   {R}-{1 | B | I | l}
+       1        0   {5}-{9}
+       1        0   {A}-{a}
+       1        0   {D}-{O}
+       1        0   {E}-{*}
+       1        0   {F}-{P}
+       1        0   {L}-{1}
+       1        0   {M}-{U}
+       1        0   {P}-{T}
+       1        0   {o}-{O}
+       1        0   {s}-{a}
+       1        0   {w}-{v}
+
+   Count   Missed   %Right
+      21        0   100.00   {<\n>}
+     230        4    98.26   { }
+       1        0   100.00   {#}
+       4        0   100.00   {$}
+       1        1     0.00   {&}
+       4        0   100.00   {'}
+       3        0   100.00   {(}
+       3        2    33.33   {)}
+      21        6    71.43   {,}
+       4        3    25.00   {-}
+      11        0   100.00   {.}
+       8        0   100.00   {/}
+      23       13    43.48   {0}
+      24        2    91.67   {1}
+       6        2    66.67   {2}
+       6        1    83.33   {3}
+      13        5    61.54   {4}
+      11        6    45.45   {5}
+      13        8    38.46   {6}
+       8        4    50.00   {7}
+      12        7    41.67   {8}
+      18        8    55.56   {9}
+       4        1    75.00   {:}
+      36       14    61.11   {A}
+       3        0   100.00   {B}
+      25        8    68.00   {C}
+       8        2    75.00   {D}
+      30       11    63.33   {E}
+      12        9    25.00   {F}
+       4        2    50.00   {G}
+       7        3    57.14   {H}
+      31       15    51.61   {I}
+       1        0   100.00   {J}
+       3        0   100.00   {K}
+      22        7    68.18   {L}
+       9        1    88.89   {M}
+      24       11    54.17   {N}
+      24       11    54.17   {O}
+      13        6    53.85   {P}
+      23       15    34.78   {R}
+      22       12    45.45   {S}
+      24        8    66.67   {T}
+       5        3    40.00   {U}
+       1        0   100.00   {V}
+       3        1    66.67   {W}
+       4        0   100.00   {Y}
+      89        0   100.00   {a}
+      24        0   100.00   {b}
+      41        0   100.00   {c}
+      24        0   100.00   {d}
+      94        1    98.94   {e}
+      16        0   100.00   {f}
+      18        0   100.00   {g}
+      27        0   100.00   {h}
+      81        1    98.77   {i}
+       2        0   100.00   {j}
+       5        0   100.00   {k}
+      33        0   100.00   {l}
+      31        0   100.00   {m}
+      86        1    98.84   {n}
+     102        1    99.02   {o}
+      17        0   100.00   {p}
+       3        0   100.00   {q}
+      68        0   100.00   {r}
+      64        2    96.88   {s}
+     101        3    97.03   {t}
+      36        1    97.22   {u}
+       6        0   100.00   {v}
+       6        1    83.33   {w}
+      13        0   100.00   {y}
+       1        0   100.00   {»}
+       1        0   100.00   {¿}
+       1        0   100.00   {ï}
