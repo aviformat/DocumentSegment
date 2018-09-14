@@ -1,0 +1,18 @@
+﻿00005853
+oa\
+4714	March, 1966	HY 2
+Journal of the HYDRAULICS DIVISION
+Proceedings of the American Society of Civil Engineers
+DETERMINATION OF WATER USE BY PHREATOPHYTES AND HYDROPHYTES
+By Gilbert H. Hughes,1 M. ASCE, and Charles C. McDonald,2 F. ASCE
+INTRODUCTION
+Phreatophytes are plants that obtain their water supply primarily from ground water. Because their roots normally must reach the capillary fringe, they are found in areas of relatively shallow ground water, generally alonf? water courses and the adjacent valley areas. Most phreatophytes have little economic value and the water they use provides relatively little benefit to man. Many species are prevalent in the southwestern states, although some may not be recognized as phreatophytes. Among the most common are salt-cedar, arrowweed, cottonwood, saltbush, willow, and mesquite. Robinson^ lists more than seventy species that are found in western United States.
+Closely associated with the phreatophytes are the hydrophytes—plants that live with their roots wholly or partly submerged in water. Tule, cattail, and various swamp grasses classed as amphibious hydrophytes are common in areas containing offstream ponds or meander channels. This swamp-type vegetation often is contiguous with phreatophytes and contributes importantly to evapotranspiration losses from some western rivers.
+Estimates of the amount of water used by phreatophytes in the arid western regions are strikingly impressive. Phreatophytes covering some 16 million acres in seventeen western states may use from 20 to 25 million acre-ft of water annually.4 In six states alone—Arizona, California, Colorado, Nevada, New Mexico, and Utah—the area of phreatophytes was estimated by the Senate
+Nolo.—Discussion open until August 1, 1966. To extend the closing date one month, a written request must be filed with the Executive Secretary, ASCE. This paper is part of the copyrighted Journal of the Hydraulics Division, Proceedings of the American Society of Civil Engineers, Vol. 92, No. HY2, March, 1966. Manuscript was submitted for review for possible publication on September 23, 1965.
+1	Hydr. Engr., Geol. Survey, U. S. Dept. of the Interior, Yuma, Ariz.
+2	Proj. Hydrol., U. S. Geol. Survey, Yuma, Ariz.
+3	itoblnson, T. W., "Phreatophytes," Water Supply Paper 1423, Geol. Survey, U. S.
+Dept. of the Interior, Washington, D. C., 1958, 84 pp.
+4	Robinson, T. W.f "Phreatophytes and Their Relation to Water in Western United States," Transactions, Amer. Geophysical Union, Vol. 33, No. 1, 1952, pp. 57-61.
+63

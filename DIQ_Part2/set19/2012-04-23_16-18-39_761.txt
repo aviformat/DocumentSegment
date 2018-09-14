@@ -1,0 +1,32 @@
+﻿.......111 ........ -
+......
+
+Feature
+MANUFACTURING
+Ceramic Microstructural Analysis
+for
+Quality Control
+Proper procedures are required for correct interpretation. Guidelines are given for a variety of materials.
+Donald C, Zipperian,* Stephanie Ghanat,* and Anne Trujillo*
+BUEHLER Southwest Research Center, Tucson, Arizona 85712
+Microstructural analysis of advanced ceramics and composites provides valuable product control and reliability information. However, correct interpretation is dependent upon correct micro-structural preparation procedures. A properly prepared surface will exhibit true sample integrity (i.e., removal of all preparation-induced damage).
+For brittle materials, such as monolithic ceramics and ceramic matrix composites (CMCa), traditional cutting, grinding, and polishing operations generally are unable to produce true sample integrity. The major problem lies in the production of unnecessary surface and subsurface damage. Successful microstruc-
+*\Wmb«r. Amtnam Ceramic SoalMy
+Table h Structural Ceramics —- Preparation Guidelines
+tural analysis requires the proper choice of abrasive type, size, and bonding characteristics, as well as correct machining speeds, relative directions, and applied loads.
+Sample Preparation
+To properly prepare materials for microstructural analysis, all surface and subsurface damage must be removed. For ceramics, surface damage is characterized by either grain pullout or scratches. Subsurface damage is harder to identify, but usually takes the form of subsurface cracks or grain fracture.
+Indentation studies by Lawn ec al.1-9 reveal that abrasive interaction with the surface is dependent upon both the abraaive shape (sharp or blunt indentation) and its bonding characteristics (rigid or loose). For ceramica, a sharp abrasive (indenter) tends to produce leas stnac-
+ammm
+Abrawv* surface
+Obmm «rtpmmrmm^m Ratd
+PlMrt
+Umi OonJtd wWH
+io, tfcffir
+"■wiiwi * imnr% urmjm
+•pngM itotwtm iM Miami w —a 0mm
+
+•%W0k
+
+'VUlHUM US iS^i^ -mmm* gr* #m
+Voum 71 Jtu. IW

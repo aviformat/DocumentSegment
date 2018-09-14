@@ -1,0 +1,18 @@
+﻿Wafer-Scale Integration of a Large Systolic Array
+O J	J
+for Adaptive Nulling
+CM. Racier
+■ TIh» arode imtrkm m mdmmsvim foe a KifNv pataM nutans af pwnwia abas ase ipaJairf foe wl il—t aiilf mm mmmm wu&ng tmpMmiwm wmmf
+of fraadom Tbaa iy»tm « cadad Mwii Ifg&tt: Sytaei* toqmwmm (MUSE). and we AwrAi a ipwurfu r—linimw «l MUSE fo* §4 d^paaa af ImmIm Eadb pfbtttf mms the CmmIm** Ummmm EHpttl Cm^mmmmna KXNttNQ algorithm mm! ba§ been dcsufpwd it a saagft inHiywd lismtt, Nwwr* <w socli ppcnMi working lapihii ^in	tifttiin ldfai insists — At
+bm of 300 new	trs Wr C* Mt TWi ofdiM r«c wfwt lit
+Mfaaa —w.nn»i per sacomf froae a f ■ iinoiwl	TWaasofmaaawe
+soppon 50 dfi of	fiat (SINK) MfwwMM m a
+iii i in TW simple aaioeciivity luitmiia yMcaatn parmas MUSE to ba mAwm! oa a *tngk large wofcr bp using fascracTmrahh VLSI
+Wh» m -mmmrn mm of AS eksnena li subject so undeswred wwerteiera*, such m jamming phis the items! mm m each of die If: receivers, die awAwna pomm am be reduced. mkmm m ie power m mm domed signal bf fam»«| as tbe system output a suaabiy weighred *um tatf dit waveforms observed on afl the imtrna elements- W* call pfocot m&mg. Usually the chokeofsuitable weights mm be mack adapaveiy The choice of	thai
+maximizes die Mgnai-«>-interference ratio (SINR) observed m the tystem output » the solution w » ^^ studied kast~*quaies problem, TKe number ofarithmetic steps requited so solve this least-squares problem. for almost any algorithm chosen, is proportional to the cube of the number of antenna elements. Furxhermorc, be* cause the statistical characteristics of the interference change with time, the adaptive weight determination must be performed repetitively and in real time.
+When the antenna array is on board a satellite, the number of antenna dements that can be nulled in practice is limited by the combination of the real-time requirement driven by satellite motion and the cubic de-
+yqdroat of da mmmwKurf «i of adqppve angM 4m*mmmmm> A pmkmm tosdy of cotnpataoonai cam m thts htrm * jV * 3k ba«d o« an assumed cwref^
+r**ui dtpul u#rui ptoccsasng ,u*h*:*cture Has tm a not absolute* because it depends on the resources we are wdling to allocate to a nutting ptocessnt Using moretesoun.es, however, » not an elikxm way to handle a large number of antenna*.
+In this artKie we docrtbe a tpecuhred ad^*ne~nuUir^ ptoccssor, catted the Mama Update Systole Experiment (MUS£), whkh « capable of daemuning die weights for Nm 64 antenna elements. Because of its no*d architecture, it can be compactly realised by using restructur-able wafer-scale integration; the resulting system fits in a 4-in square. MUSE ts substantially smaller and lighter than a conventional processor, and it uses substantially less power. Although die MUSE processor is special-tied for N * 64 antennas, the MUSE design concept can be applied to the design of a similar processor for an antenna array with a different number of elements.
+We briefly explain the mathematics of adaptive nuH-
+«nt * dwi ; ssi ~*t uacoi* uttM'tt* josifcu 3

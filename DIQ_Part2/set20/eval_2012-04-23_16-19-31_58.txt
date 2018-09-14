@@ -1,0 +1,132 @@
+-----------------------------------------
+    2554   Characters
+    2525   Errors
+    1.14%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+    1.14%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+    2515       10        0     2525   Unmarked
+    2515       10        0     2525   Total
+
+   Count   Missed   %Right
+     386      378     2.07   ASCII Spacing Characters
+     111      111     0.00   ASCII Special Symbols
+      75       75     0.00   ASCII Digits
+     207      197     4.83   ASCII Uppercase Letters
+    1760     1758     0.11   ASCII Lowercase Letters
+       8        4    50.00   Latin1 Control Codes
+       2        0   100.00   Latin1 Special Symbols
+       5        2    60.00   Latin1 Lowercase Letters
+    2554     2525     1.14   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+     893        0   {Society of Civil Eng...}-{}
+     616        0   {that live with their...}-{}
+     235        0   {Y2, March, 1966. Man...}-{}
+     163        0   {4 Robinson, T. W., "...}-{}
+     115        0   {Arizona, California,...}-{}
+     111        0   {1, 1966. To extend t...}-{U}
+     105        0   {E. This paper is par...}-{}
+      64        0   {., "Phreatophytes," ...}-{N}
+      55        0   {Journal of the HYDRA...}-{Â«}
+      23        0   {Dept. of the Interio...}-{}
+      21        0   {iscussion open until...}-{K}
+      20        0   {of Civil Engineers, }-{W}
+      18        0   {00005853<\n>001<\n>4714...}-{}
+      15        0   {., 1958, 84 pp.}-{M}
+      15        0   {arch, 1966 HY 2}-{}
+      14        0   {ashington, D. }-{}
+      12        0   {ol. 92, No. }-{}
+       8        0   {Note.â<80><94>}-{IIY}
+       6        0   {erican}-{}
+       6        0   {ociety}-{}
+       6        0   {plants}-{}
+       4        0   {ugus}-{}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+
+   Count   Missed   %Right
+      17       13    23.53   {<\n>}
+     369      365     1.08   { }
+       4        4     0.00   {"}
+      52       52     0.00   {,}
+       4        4     0.00   {-}
+      51       51     0.00   {.}
+       7        7     0.00   {0}
+      15       15     0.00   {1}
+      10       10     0.00   {2}
+       8        8     0.00   {3}
+       6        6     0.00   {4}
+       7        7     0.00   {5}
+      10       10     0.00   {6}
+       2        2     0.00   {7}
+       3        3     0.00   {8}
+       7        7     0.00   {9}
+      16       15     6.25   {A}
+       3        3     0.00   {B}
+      13       11    15.38   {C}
+      12       11     8.33   {D}
+      15       15     0.00   {E}
+       2        2     0.00   {F}
+       5        5     0.00   {G}
+      12       11     8.33   {H}
+      11       11     0.00   {I}
+       2        2     0.00   {J}
+       1        1     0.00   {L}
+       9        8    11.11   {M}
+      11       11     0.00   {N}
+       7        7     0.00   {O}
+      11       11     0.00   {P}
+      10       10     0.00   {R}
+      22       21     4.55   {S}
+      16       16     0.00   {T}
+      10       10     0.00   {U}
+       3        2    33.33   {V}
+       7        5    28.57   {W}
+       9        9     0.00   {Y}
+     147      147     0.00   {a}
+      18       18     0.00   {b}
+      44       44     0.00   {c}
+      43       43     0.00   {d}
+     225      225     0.00   {e}
+      29       29     0.00   {f}
+      26       26     0.00   {g}
+      79       79     0.00   {h}
+     116      116     0.00   {i}
+       2        2     0.00   {j}
+       1        1     0.00   {k}
+      75       75     0.00   {l}
+      43       42     2.33   {m}
+     117      117     0.00   {n}
+     144      144     0.00   {o}
+      57       57     0.00   {p}
+       2        2     0.00   {q}
+     133      133     0.00   {r}
+     127      127     0.00   {s}
+     173      172     0.58   {t}
+      45       45     0.00   {u}
+      25       25     0.00   {v}
+      31       31     0.00   {w}
+       4        4     0.00   {x}
+      50       50     0.00   {y}
+       4        4     0.00   {z}
+       4        2    50.00   {<80>}
+       4        2    50.00   {<94>}
+       1        0   100.00   {»}
+       1        0   100.00   {¿}
+       4        2    50.00   {â}
+       1        0   100.00   {ï}

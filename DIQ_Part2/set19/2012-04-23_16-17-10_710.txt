@@ -1,0 +1,25 @@
+﻿Feature
+MANUFACTURING
+Ceramic Microstructural Analysis
+w
+forQuality Control
+Proper procedures are required for correct interpretation. Guidelines are given for a variety of materials,
+Donald C. Zipperian/ Stephanie Ghanaf/ and Anne Truilo'
+BUBHLER Southwest Research C&nt&r, Tucson. Artions 95712
+Microstructural analysts of advanced ceramics and composites provides valuable product control and reliability information. However, correct interpretation is dependent upon correct micro-structural preparation procedures. A properly prepsred surface will exhibit true sample integrity (i.e., removal of all preparation-induced damage).
+For brittle materials, such as monolithic ceramics and ceramic matrix composites (CMCs), traditional cutting, grinding, and polishing operations generally are unable to produce true sample integrity. The major problem lies in the production of unnecessary surface and subsurface damage. Successful micros true*
+"Member, American Ceramic Society
+tural analysis requires the proper choice of abrasive type, size, and bonding characteristics, as well aa correct machining speeds, relative directions, and applied loads.
+Simple Preparation
+To property prepare materials for microstructural analysis, all surface and subsurface damage must be removed. For ceramics, surface damage is characterised by either grain pullout or scratches. Subsurface damage is harder to identify, but usually takea the form of subsurface cracks or grain fracture.
+Indentation studies by Lawn et of.1'9 reveal that abrasive interaction with the surface is dependent upon both the abrasive shape (sharp or blunt indentation) and its bonding characteristics (rigid or loose). For ceramics, a sharp abrasive (indenter) tends to produce less struc-
+Table I. Structural Ceramics — Preparation Guidelines				
+Preparation stage	Purpose	Abrasive bonding	Abraafte surface	Diamond abrasive size
+Sectioning	Obtain a representative section	Fixed	Metal-bonded wheel	Matenei dependent Series 10,15, or 20*
+Planar ghrxlng	Adequate stock removal (minimal damage)	Free	Herd platen surface	15-45 »im
+	High stock removal (increaaed damage)	Fixed	Bonded abrasive disks	40-125 fim
+Sample Integrity	Remove existing damage	Semifixed	Medium-to-soft platen sudecee or herd napless cloths	1-0 pm
+Polishing	Enhance optical characteristics	Semifixed to free	Depends on ceramic or composts material	0 10-0,25-fim diamond or mechanochemical abrasives
+•BUEHLEfl. Lid designation for abrasive grit size and bonding characteristics.
+Volume 71 Jay. 1992
+1077

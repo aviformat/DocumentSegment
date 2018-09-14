@@ -1,0 +1,184 @@
+-----------------------------------------
+    2536   Characters
+     857   Errors
+   66.21%  Accuracy
+
+       1   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.04%  Characters Marked
+   66.36%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       1        3        0        4   Marked
+     696       75       82      853   Unmarked
+     697       78       82      857   Total
+
+   Count   Missed   %Right
+     335       91    72.84   ASCII Spacing Characters
+      79       30    62.03   ASCII Special Symbols
+      41       27    34.15   ASCII Digits
+     102       37    63.73   ASCII Uppercase Letters
+    1973      587    70.25   ASCII Lowercase Letters
+       2        2     0.00   Latin1 Control Codes
+       2        0   100.00   Latin1 Special Symbols
+       2        1    50.00   Latin1 Lowercase Letters
+    2536      775    69.44   Total
+
+  Errors   Marked   Correct-Generated : ALL Confusions
+      76        0   {Ltd. designation for...}-{}
+      74        0   {}-{oÂ« hmtnmm Cmmm* $M*nv...}
+      68        0   {ock removal (increas...}-{w*}
+      55        0   {Table 1. Structural ...}-{J2222L}
+      43        0   {ding Abrasive surfac...}-{w}
+      40        0   {shing Enhance optica...}-{m}
+      37        0   {btain a representati...}-{}
+      34        0   {ded wheel Material d...}-{}
+      32        0   {ember, American Cera...}-{MM}
+      30        0   {ifixed to free Depen...}-{}
+      28        0   {damage) Free Hard pl...}-{**SKÂ»<\n>}
+      26        0   {Preparation stage Pu...}-{}
+      26        0   {grinding Adequate st...}-{p}
+      19        0   {ace 15-45(im<\n>High s}-{}
+      19        0   {aterial 0.10-0.25-u}-{<\n>*}
+      14        0   {tcal abrasives}-{}
+      14        0   {ty Remove exis}-{f}
+      13        0   {or hard naple}-{}
+      11        0   {Sectioning }-{}
+      11        0   {ing damage }-{jÂ»<\n>O}
+       9        0   {echanoche}-{}
+       9        0   {emifixed }-{p}
+       9        0   {hs 1-9 um}-{}
+       8        0   {asive bo}-{}
+       8        0   {surfaces}-{MMMMI}
+       8        0   {}-{-<\n>*\feÂ«}
+       7        0   {5, or 2}-{S.W3}
+       7        0   {Sample }-{Â«H}
+       7        0   {ond or }-{%}
+       7        0   {posite }-{}
+       6        0   {EHLER,}-{M}
+       6        0   {Planar}-{hw*}
+       6        0   {edium-}-{}
+       6        0   {inimal}-{}
+       6        0   {o-soft}-{}
+       6        0   {oval (}-{}
+       6        0   {platen}-{OT}
+       5        0   {<\n>1077}-{}
+       5        0   {ntegr}-{}
+       5        0   {or co}-{*wÂ»}
+       5        0   {s clo}-{}
+       4        4   { 1-9}-{]~*}
+       4        0   { dia}-{}
+       4        0   {l-bo}-{}
+       4        0   {uly,}-{US.}
+       3        0   {Pol}-{}
+       3        0   {i}-{I}
+       3        0   {s}-{a}
+       2        0   { }-{<\n>}
+       2        0   {*B}-{VO}
+       2        0   {0,}-{&}
+       2        0   {et}-{}
+       2        0   {ic}-{}
+       2        0   {o*}-{I}
+       2        0   {ss}-{a*}
+       1        0   {*}-{A}
+       1        0   {,}-{*}
+       1        0   {.}-{}
+       1        0   {b}-{D}
+       1        0   {l}-{/}
+       1        0   {s}-{*}
+       1        0   {t}-{l}
+
+  Errors   Marked   Correct-Generated : ONE to one confusions
+       3        0   {i}-{I}
+       3        0   {s}-{a}
+       1        0   {b}-{D}
+       1        0   {l}-{/}
+       1        0   {s}-{*}
+       1        0   {t}-{l}
+
+  Errors   Marked   Correct-Generated : ONE to two confusions
+
+  Errors   Marked   Correct-Generated : TWO to one confusions
+
+  Errors   Marked   Correct-Generated : TWO to two confusions
+       2        0   {ss}-{a*}
+
+  Errors   Marked   Correct-Generated : SINGLE Confusions
+       4        0   {s}-{a | *}
+       3        0   {i}-{I}
+       1        0   {b}-{D}
+       1        0   {l}-{/}
+       1        0   {t}-{l}
+
+   Count   Missed   %Right
+      22        3    86.36   {<\n>}
+     313       88    71.88   { }
+       8        3    62.50   {(}
+       7        2    71.43   {)}
+       6        3    50.00   {*}
+      24        6    75.00   {,}
+      12        9    25.00   {-}
+      22        7    68.18   {.}
+       7        6    14.29   {0}
+      12        7    41.67   {1}
+       5        3    40.00   {2}
+       2        2     0.00   {4}
+       6        5    16.67   {5}
+       4        2    50.00   {7}
+       1        0   100.00   {8}
+       4        2    50.00   {9}
+      10        3    70.00   {A}
+       3        2    33.33   {B}
+      10        2    80.00   {C}
+       3        2    33.33   {D}
+       5        3    40.00   {E}
+       8        3    62.50   {F}
+       3        1    66.67   {G}
+       5        3    40.00   {H}
+       2        0   100.00   {I}
+       1        0   100.00   {J}
+       4        2    50.00   {L}
+       8        1    87.50   {M}
+       2        0   100.00   {N}
+       1        0   100.00   {O}
+       7        5    28.57   {P}
+       1        0   100.00   {Q}
+       5        2    60.00   {R}
+      12        6    50.00   {S}
+       6        1    83.33   {T}
+       4        0   100.00   {U}
+       1        1     0.00   {V}
+       1        0   100.00   {Z}
+     200       62    69.00   {a}
+      34       12    64.71   {b}
+     104       28    73.08   {c}
+      82       30    63.41   {d}
+     233       81    65.24   {e}
+      32        7    78.13   {f}
+      34       15    55.88   {g}
+      38       10    73.68   {h}
+     167       59    64.67   {i}
+       2        0   100.00   {j}
+       5        3    40.00   {k}
+      80       22    72.50   {l}
+      60       18    70.00   {m}
+     120       36    70.00   {n}
+     122       35    71.31   {o}
+      60       12    80.00   {p}
+       3        1    66.67   {q}
+     192       45    76.56   {r}
+     130       42    67.69   {s}
+     138       34    75.36   {t}
+      73       14    80.82   {u}
+      24       10    58.33   {v}
+       7        1    85.71   {w}
+       7        5    28.57   {x}
+      21        3    85.71   {y}
+       5        2    60.00   {z}
+       1        1     0.00   {<80>}
+       1        1     0.00   {<94>}
+       1        0   100.00   {»}
+       1        0   100.00   {¿}
+       1        1     0.00   {â}
+       1        0   100.00   {ï}
