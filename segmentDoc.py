@@ -157,6 +157,7 @@ final_img=perspectiveTransform(original_img,true_Angle,coordinate_start,coordina
 cv2.imshow('final_img',final_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+cv2.imwrite('CroppedImage.jpg',final_img)
 # print original_img.shape,final_img.shape
 final_img=cv2.resize(final_img,(512,512))
 final_img = np.concatenate((original_img, final_img), axis=1)
